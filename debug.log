@@ -1,0 +1,621 @@
+[0501/111022.448:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/111024.992:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/114101.192:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/095433.504:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/110821.253:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/120255.746:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/124335.306:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/124442.074:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/134341.331:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/141748.015:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/142356.472:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/153041.219:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/153149.095:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/153536.351:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/153630.039:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/165132.694:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0501/223403.217:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0501/223657.553:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0501/223756.450:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0501/223812.239:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0501/223818.636:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0501/223819.406:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0501/223959.309:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0501/224025.531:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0501/224312.265:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0502/191236.339:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0502/191244.132:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0502/192635.397:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0502/192655.881:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0502/192733.273:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0502/194254.308:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0502/194323.165:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0502/194337.381:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0502/194401.105:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0502/205501.623:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0502/210142.800:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0503/160010.380:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0503/160015.677:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0503/200204.814:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0503/200209.452:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0503/200221.869:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0503/203645.623:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0503/203744.282:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0503/204000.206:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0504/065332.560:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0504/065354.854:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0504/065435.739:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0504/065503.751:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0504/065646.085:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0504/070127.172:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0504/070155.317:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0504/071002.801:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0504/071039.848:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0504/071522.612:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0504/071748.208:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0504/072426.061:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
+[0504/073007.668:INFO:CONSOLE(57)] "Uncaught Error: System.InvalidOperationException: Could not execute method: _RemoteActivity(NULL, System.Collections.Generic.Dictionary`2[System.String,System.Object])  ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: The file 'C:\Games\EvolveLauncher\client\SAMPFUNCS\plugin_manager.sf' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at evolve.components.classes.ChromiumJavascriptCallback._RemoteActivity(String path, Dictionary`2 Object)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)
+   --- End of inner exception stack trace ---
+   at CefSharp.Internals.JavascriptObjectRepository.TryCallMethod(Int64 objectId, String name, Object[] parameters)", source: interface://components/ui/script.js (57)
