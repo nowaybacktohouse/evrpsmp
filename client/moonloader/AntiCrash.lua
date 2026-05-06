@@ -1,6 +1,6 @@
 script_name('EvolveAntiCrash')
-script_version('1.8.0')
-script_version_number(9)
+script_version('1.8.1')
+script_version_number(10)
 script_author('Evolve RP')
 script_description('Anti-crash: process memory monitor with streaming cleanup')
 script_moonloader(026)
@@ -88,12 +88,15 @@ function main()
     guiFont = renderCreateFont('Arial', 10, font_flag.BOLD + font_flag.SHADOW)
     guiFontSmall = renderCreateFont('Arial', 8, font_flag.SHADOW)
 
-    sampRegisterChatCommand('crashmon', cmdToggleGui)
+    -- Wait for SA-MP to fully initialize
+    while not isSampAvailable() do wait(100) end
+    wait(1000)
 
-    sampAddChatMessage('{FFCC00}[AntiCrash] {FFFFFF}v1.8.0 loaded. Use {00FF00}/crashmon {FFFFFF}to toggle memory monitor.', 0xFFFFFFFF)
+    sampRegisterChatCommand('crashmon', cmdToggleGui)
+    sampAddChatMessage('{FFCC00}[AntiCrash] {FFFFFF}v1.8.1 loaded. Use {00FF00}/crashmon {FFFFFF}to toggle memory monitor.', 0xFFFFFFFF)
 
     local ws, peak = getWorkingSet()
-    print(string.format('[AntiCrash] v1.8.0 loaded. /crashmon to toggle GUI. Working set: %d MB',
+    print(string.format('[AntiCrash] v1.8.1 loaded. /crashmon to toggle GUI. Working set: %d MB',
         math.floor(ws / 1024 / 1024)))
 
     while true do
@@ -161,7 +164,7 @@ function renderDraw()
     renderDrawBox(GUI_X, GUI_Y, GUI_WIDTH, 82, 0xAA000000)
 
     -- Title
-    renderFontDrawText(guiFont, 'AntiCrash v1.8', GUI_X + 4, GUI_Y + 2, 0xFFFFCC00)
+    renderFontDrawText(guiFont, 'AntiCrash v1.8.1', GUI_X + 4, GUI_Y + 2, 0xFFFFCC00)
 
     -- Memory usage color
     local usageColor = 0xFF00FF00
