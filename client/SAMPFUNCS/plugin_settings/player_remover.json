@@ -1,0 +1,7 @@
+{
+	"main" : 
+	{
+		"dont_remove_drivers" : false,
+		"fast_remove_after_death" : false
+	}
+}

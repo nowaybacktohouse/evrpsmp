@@ -1,0 +1,68 @@
+[13:18:52] 
+SAMPFUNCS v5.4.1-final rel.21 (SA-MP 0.3.7-R1)
+Compiled: Dec 24 2018 03:13:37
+
+Copyright (c) 2013-2018, BlastHack Team <blast.hk>
+
+[13:18:52] Base address: 0x59530000.
+[13:18:52] Initializing opcodes...
+[13:18:52] Opcodes initialized successfully. Total opcodes: 382.
+[13:18:52] Hook "CTimer::GetRealTimeScale" installed.
+[13:18:52] Hook "CPad::Update" installed.
+[13:18:52] Hook "CCamera::RenderMotionBlur" installed.
+[13:18:52] Hook "CScriptThread::AddScriptToQueue" installed.
+[13:18:52] Hook "CScriptThread::RemoveScriptFromQueue" installed.
+[13:18:52] Hook "CScriptThread::Process" installed.
+[13:18:52] Hook "WinMainLoop" installed.
+[13:18:52] Hook "CLoadingScreen::RenderSplash" installed.
+[13:18:52] Hook "CVehicle::CVehicle" installed.
+[13:18:52] Hook "CVehicle::~CVehicle" installed.
+[13:18:52] Hook "CPed::CPed" installed.
+[13:18:52] Hook "CPed::~CPed" installed.
+[13:18:52] Initializing plugins...
+[13:18:52] SF Plugin "fast_mask.sf" loaded.
+[13:18:52] SF Plugin "plugin_manager.sf" loaded.
+[13:18:57] samp.dll base addres: 0x03CE0000
+[13:18:57] Hook "SAMP: CNetGame::CNetGame" installed.
+[13:18:57] Hook "SAMP: CDialog::Close" installed.
+[13:18:57] Hook "SAMP: QuitGame" installed.
+[13:18:57] Hook "SAMP: CCmdWindow::ProcessInput" installed.
+[13:19:10] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Session started.
+[13:19:10] {C0C0C0}[ML] {C0C0C0}
+MoonLoader v.026.5-beta loaded.
+[13:19:10] {C0C0C0}[ML] {C0C0C0}Developers: FYP, hnnssy, EvgeN 1137
+
+[13:19:10] {C0C0C0}[ML] {C0C0C0}Copyright (c) 2016, BlastHack Team
+[13:19:10] {C0C0C0}[ML] {C0C0C0}http://blast.hk/moonloader/
+
+[13:19:10] {C0C0C0}[ML] {A9EFF5}(info) {C0C0C0}Working directory: C:\Games\EvolveLauncher\client\moonloader
+[13:19:10] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Installing pre-game hooks...
+[13:19:10] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Hooks installed.
+[13:19:10] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'C:\Games\EvolveLauncher\client\moonloader\AutoReboot.lua'...
+[13:19:10] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}ML-AutoReboot: {C0C0C0}Loaded successfully.
+[13:19:10] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'C:\Games\EvolveLauncher\client\moonloader\check-moonloader-updates.lua'...
+[13:19:10] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}Check MoonLoader Updates: {C0C0C0}Loaded successfully.
+[13:19:10] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'C:\Games\EvolveLauncher\client\moonloader\Government Tools.luac'...
+[13:19:10] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}Government Tools: {C0C0C0}Loaded successfully.
+[13:19:10] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'C:\Games\EvolveLauncher\client\moonloader\reload_all.lua'...
+[13:19:10] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}ML-ReloadAll: {C0C0C0}Loaded successfully.
+[13:19:10] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'C:\Games\EvolveLauncher\client\moonloader\SF Integration.lua'...
+[13:19:10] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}SF Integration: {C0C0C0}Loaded successfully.
+[13:19:10] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Installing post-load hooks...
+[13:19:10] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Hooks installed.
+[13:19:14] Direct3DDevice9 hook installed.
+[13:19:21] Hook "SAMP: RakPeer::HandleRPCPacket" installed.
+[13:19:22] Initializing SAMP data...
+[13:19:22] Info initialized.
+[13:19:22] Pools initialized.
+[13:19:22] Player pool initialized.
+[13:19:22] Vehicle pool initialized.
+[13:19:22] Chat initialized.
+[13:19:22] Input initialized.
+[13:19:22] Death list initialized.
+[13:19:22] Dialog initialized.
+[13:19:22] Misc data initialized.
+[13:19:22] Scoreboard initialized.
+[13:19:22] RakNet initialized.
+[13:19:22] SAMPFUNCS v5.4.1-final rel.21 (SA-MP 0.3.7-R1) completely loaded!
+[13:42:59] Hook "SAMP: CNetGame::~CNetGame" installed.
