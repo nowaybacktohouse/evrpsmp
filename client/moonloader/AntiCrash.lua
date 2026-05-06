@@ -1,23 +1,30 @@
 script_name('EvolveAntiCrash')
-script_version('1.3.0')
-script_version_number(4)
+script_version('1.4.0')
+script_version_number(5)
 script_author('Evolve RP')
-script_description('Anti-crash: streaming memory limiter for low VRAM GPUs')
+script_description('Anti-crash: streaming memory cleanup for low VRAM GPUs')
 script_moonloader(026)
 
 local memory = require 'memory'
+local ffi = require 'ffi'
 
 -- GTA SA memory addresses (1.0 US)
-local ADDR_STREAMING_MEM_AVAILABLE = 0x8E4CB4   -- CStreaming::ms_memoryAvailable
-local ADDR_STREAMING_MEM_USED      = 0x8E4CA8   -- CStreaming::ms_memoryUsed
+local ADDR_STREAMING_MEM_USED = 0x8E4CA8   -- CStreaming::ms_memoryUsed
+
+-- GTA SA internal functions (1.0 US, __cdecl)
+ffi.cdef[[
+    typedef void (__cdecl *void_func_t)();
+]]
+-- CStreaming::RemoveAllUnusedModels - frees models with 0 references
+local removeAllUnused = ffi.cast('void_func_t', 0x40CF80)
+-- CStreaming::RemoveLeastUsedModel - frees the single least recently used model
+local removeLeastUsed = ffi.cast('void_func_t', 0x40CFD0)
 
 -- Config (tuned for GT 1030 / 2GB VRAM / 8GB RAM)
--- EvolveClient.asi constantly overrides the streaming limit to ~2535MB.
--- We cannot reliably cap it at the address level, so instead we monitor
--- absolute usage and force cleanup when it gets too high.
-local MAX_USAGE_MB         = 384                 -- force cleanup when usage exceeds this (MB)
-local MAX_USAGE_HEAVY_MB   = 256                 -- lower threshold in crash-prone zones (MB)
-local CHECK_INTERVAL       = 100                 -- check every 100ms for faster response
+local MAX_USAGE_MB         = 384       -- start cleanup when usage exceeds this
+local MAX_USAGE_HEAVY_MB   = 256       -- lower threshold in crash-prone zones
+local CRITICAL_USAGE_MB    = 512       -- aggressive cleanup above this
+local CHECK_INTERVAL       = 150       -- check every 150ms
 
 -- Crash-prone zones: {x, y, radius}
 local HEAVY_ZONES = {
@@ -30,10 +37,8 @@ function main()
     while not isPlayerPlaying(PLAYER_HANDLE) do wait(100) end
     wait(3000)
 
-    local currentMem = memory.getint32(ADDR_STREAMING_MEM_AVAILABLE, true)
-    local currentMB = math.floor(currentMem / 1024 / 1024)
-    print(string.format('[AntiCrash] v1.3.0 loaded. Streaming limit: %d MB. Cleanup at: %d MB (normal) / %d MB (heavy zones)',
-        currentMB, MAX_USAGE_MB, MAX_USAGE_HEAVY_MB))
+    print(string.format('[AntiCrash] v1.4.0 loaded. Cleanup at: %d MB / %d MB (heavy) / %d MB (critical)',
+        MAX_USAGE_MB, MAX_USAGE_HEAVY_MB, CRITICAL_USAGE_MB))
 
     while true do
         wait(CHECK_INTERVAL)
@@ -61,9 +66,18 @@ function monitorStreaming()
         end
     end
 
-    if usedMB >= threshold then
+    if usedMB >= CRITICAL_USAGE_MB then
+        -- Critical: aggressively free memory
         pcall(function()
-            loadAllModelsNow()
+            removeAllUnused()
+            for i = 1, 10 do
+                removeLeastUsed()
+            end
+        end)
+    elseif usedMB >= threshold then
+        -- Normal cleanup: free unused models
+        pcall(function()
+            removeAllUnused()
         end)
     end
 end
