@@ -1,8 +1,8 @@
 script_name('EvolveAntiCrash')
-script_version('1.1.0')
-script_version_number(2)
+script_version('1.2.0')
+script_version_number(3)
 script_author('Evolve RP')
-script_description('Anti-crash: streaming memory management')
+script_description('Anti-crash: streaming memory limiter for low VRAM GPUs')
 script_moonloader(026)
 
 local memory = require 'memory'
@@ -11,10 +11,10 @@ local memory = require 'memory'
 local ADDR_STREAMING_MEM_AVAILABLE = 0x8E4CB4   -- CStreaming::ms_memoryAvailable
 local ADDR_STREAMING_MEM_USED      = 0x8E4CA8   -- CStreaming::ms_memoryUsed
 
--- Config
-local STREAMING_MEMORY_MB   = 128               -- streaming memory limit (MB)
-local CHECK_INTERVAL        = 500                -- memory check interval (ms)
-local MEMORY_FREE_THRESHOLD = 0.88               -- force cleanup at 88% usage
+-- Config (tuned for GT 1030 / 2GB VRAM / 8GB RAM)
+local MAX_STREAMING_MEMORY_MB = 512              -- cap streaming at 512MB (EvolveClient sets ~2535MB which is way too much for GT 1030)
+local CHECK_INTERVAL          = 400              -- memory check interval (ms)
+local MEMORY_FREE_THRESHOLD   = 0.85             -- force cleanup at 85% usage
 
 -- Crash-prone zones: {x, y, radius}
 local HEAVY_ZONES = {
@@ -24,13 +24,12 @@ local HEAVY_ZONES = {
 }
 
 local initialized = false
-local origStreamingMem = 0
 
 function main()
     while not isPlayerPlaying(PLAYER_HANDLE) do wait(100) end
     wait(3000)
 
-    setupStreamingMemory()
+    capStreamingMemory()
     initialized = true
 
     while true do
@@ -41,16 +40,18 @@ function main()
     end
 end
 
-function setupStreamingMemory()
-    origStreamingMem = memory.getint32(ADDR_STREAMING_MEM_AVAILABLE, true)
-    local newMem = STREAMING_MEMORY_MB * 1024 * 1024
-    if origStreamingMem < newMem then
-        memory.setint32(ADDR_STREAMING_MEM_AVAILABLE, newMem, true)
-        print(string.format('[AntiCrash] Streaming memory: %d MB -> %d MB',
-            origStreamingMem / 1024 / 1024, STREAMING_MEMORY_MB))
+function capStreamingMemory()
+    local currentMem = memory.getint32(ADDR_STREAMING_MEM_AVAILABLE, true)
+    local currentMB = math.floor(currentMem / 1024 / 1024)
+    local capBytes = MAX_STREAMING_MEMORY_MB * 1024 * 1024
+
+    if currentMem > capBytes then
+        memory.setint32(ADDR_STREAMING_MEM_AVAILABLE, capBytes, true)
+        print(string.format('[AntiCrash] Streaming memory capped: %d MB -> %d MB (GPU: GT 1030, 2GB VRAM)',
+            currentMB, MAX_STREAMING_MEMORY_MB))
     else
-        print(string.format('[AntiCrash] Streaming memory already at %d MB',
-            origStreamingMem / 1024 / 1024))
+        print(string.format('[AntiCrash] Streaming memory OK: %d MB (cap: %d MB)',
+            currentMB, MAX_STREAMING_MEMORY_MB))
     end
 end
 
@@ -59,6 +60,13 @@ function monitorStreaming()
     local memUsed = memory.getint32(ADDR_STREAMING_MEM_USED, true)
 
     if memAvailable <= 0 then return end
+
+    -- Re-apply cap in case something resets it
+    local capBytes = MAX_STREAMING_MEMORY_MB * 1024 * 1024
+    if memAvailable > capBytes then
+        memory.setint32(ADDR_STREAMING_MEM_AVAILABLE, capBytes, true)
+        memAvailable = capBytes
+    end
 
     local usage = memUsed / memAvailable
 
@@ -74,17 +82,11 @@ function monitorStreaming()
         end
     end
 
-    local threshold = inHeavyZone and 0.80 or MEMORY_FREE_THRESHOLD
+    local threshold = inHeavyZone and 0.75 or MEMORY_FREE_THRESHOLD
 
     if usage >= threshold then
         pcall(function()
             loadAllModelsNow()
         end)
-    end
-end
-
-function onScriptTerminate(scr, quitGame)
-    if scr == thisScript() and initialized and origStreamingMem > 0 then
-        memory.setint32(ADDR_STREAMING_MEM_AVAILABLE, origStreamingMem, true)
     end
 end
