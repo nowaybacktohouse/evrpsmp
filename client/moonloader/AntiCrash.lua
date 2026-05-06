@@ -1,6 +1,6 @@
 script_name('EvolveAntiCrash')
-script_version('1.2.0')
-script_version_number(3)
+script_version('1.3.0')
+script_version_number(4)
 script_author('Evolve RP')
 script_description('Anti-crash: streaming memory limiter for low VRAM GPUs')
 script_moonloader(026)
@@ -12,9 +12,12 @@ local ADDR_STREAMING_MEM_AVAILABLE = 0x8E4CB4   -- CStreaming::ms_memoryAvailabl
 local ADDR_STREAMING_MEM_USED      = 0x8E4CA8   -- CStreaming::ms_memoryUsed
 
 -- Config (tuned for GT 1030 / 2GB VRAM / 8GB RAM)
-local MAX_STREAMING_MEMORY_MB = 512              -- cap streaming at 512MB (EvolveClient sets ~2535MB which is way too much for GT 1030)
-local CHECK_INTERVAL          = 400              -- memory check interval (ms)
-local MEMORY_FREE_THRESHOLD   = 0.85             -- force cleanup at 85% usage
+-- EvolveClient.asi constantly overrides the streaming limit to ~2535MB.
+-- We cannot reliably cap it at the address level, so instead we monitor
+-- absolute usage and force cleanup when it gets too high.
+local MAX_USAGE_MB         = 384                 -- force cleanup when usage exceeds this (MB)
+local MAX_USAGE_HEAVY_MB   = 256                 -- lower threshold in crash-prone zones (MB)
+local CHECK_INTERVAL       = 100                 -- check every 100ms for faster response
 
 -- Crash-prone zones: {x, y, radius}
 local HEAVY_ZONES = {
@@ -23,14 +26,14 @@ local HEAVY_ZONES = {
     {2000, 1600, 250},  -- LV Bridge North
 }
 
-local initialized = false
-
 function main()
     while not isPlayerPlaying(PLAYER_HANDLE) do wait(100) end
     wait(3000)
 
-    capStreamingMemory()
-    initialized = true
+    local currentMem = memory.getint32(ADDR_STREAMING_MEM_AVAILABLE, true)
+    local currentMB = math.floor(currentMem / 1024 / 1024)
+    print(string.format('[AntiCrash] v1.3.0 loaded. Streaming limit: %d MB. Cleanup at: %d MB (normal) / %d MB (heavy zones)',
+        currentMB, MAX_USAGE_MB, MAX_USAGE_HEAVY_MB))
 
     while true do
         wait(CHECK_INTERVAL)
@@ -40,51 +43,25 @@ function main()
     end
 end
 
-function capStreamingMemory()
-    local currentMem = memory.getint32(ADDR_STREAMING_MEM_AVAILABLE, true)
-    local currentMB = math.floor(currentMem / 1024 / 1024)
-    local capBytes = MAX_STREAMING_MEMORY_MB * 1024 * 1024
-
-    if currentMem > capBytes then
-        memory.setint32(ADDR_STREAMING_MEM_AVAILABLE, capBytes, true)
-        print(string.format('[AntiCrash] Streaming memory capped: %d MB -> %d MB (GPU: GT 1030, 2GB VRAM)',
-            currentMB, MAX_STREAMING_MEMORY_MB))
-    else
-        print(string.format('[AntiCrash] Streaming memory OK: %d MB (cap: %d MB)',
-            currentMB, MAX_STREAMING_MEMORY_MB))
-    end
-end
-
 function monitorStreaming()
-    local memAvailable = memory.getint32(ADDR_STREAMING_MEM_AVAILABLE, true)
     local memUsed = memory.getint32(ADDR_STREAMING_MEM_USED, true)
+    if memUsed <= 0 then return end
 
-    if memAvailable <= 0 then return end
+    local usedMB = memUsed / 1024 / 1024
 
-    -- Re-apply cap in case something resets it
-    local capBytes = MAX_STREAMING_MEMORY_MB * 1024 * 1024
-    if memAvailable > capBytes then
-        memory.setint32(ADDR_STREAMING_MEM_AVAILABLE, capBytes, true)
-        memAvailable = capBytes
-    end
-
-    local usage = memUsed / memAvailable
-
-    -- Check if near heavy zone for lower threshold
-    local inHeavyZone = false
+    -- Determine threshold based on player location
+    local threshold = MAX_USAGE_MB
     local px, py, pz = getCharCoordinates(playerPed)
     for _, zone in ipairs(HEAVY_ZONES) do
         local dx = px - zone[1]
         local dy = py - zone[2]
         if (dx * dx + dy * dy) < (zone[3] * zone[3]) then
-            inHeavyZone = true
+            threshold = MAX_USAGE_HEAVY_MB
             break
         end
     end
 
-    local threshold = inHeavyZone and 0.75 or MEMORY_FREE_THRESHOLD
-
-    if usage >= threshold then
+    if usedMB >= threshold then
         pcall(function()
             loadAllModelsNow()
         end)
