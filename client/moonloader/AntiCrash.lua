@@ -1,6 +1,6 @@
 script_name('EvolveAntiCrash')
-script_version('1.7.0')
-script_version_number(8)
+script_version('1.8.0')
+script_version_number(9)
 script_author('Evolve RP')
 script_description('Anti-crash: process memory monitor with streaming cleanup')
 script_moonloader(026)
@@ -38,15 +38,14 @@ ffi.cdef[[
     typedef void (__cdecl *void_func_t)();
 ]]
 local removeAllUnused = ffi.cast('void_func_t', 0x40CF80)
-local removeLeastUsed = ffi.cast('void_func_t', 0x40CFD0)
 
 -- Config (tuned for GT 1030 / 2GB VRAM / 8GB RAM)
--- Using process working set (actual RAM usage) as metric
-local CLEANUP_THRESHOLD_MB = 2100      -- start cleanup at 2100 MB working set
-local CLEANUP_HEAVY_MB     = 1800      -- lower threshold in heavy zones
-local CRITICAL_THRESHOLD_MB = 2500     -- aggressive cleanup
-local TOTAL_RAM_MB         = 8140      -- total system RAM
-local CHECK_INTERVAL       = 200
+local CLEANUP_THRESHOLD_MB  = 2200     -- start cleanup at 2200 MB
+local CLEANUP_HEAVY_MB      = 2000     -- lower threshold in heavy zones
+local CRITICAL_THRESHOLD_MB = 2800     -- aggressive cleanup
+local TOTAL_RAM_MB          = 8140     -- total system RAM
+local CHECK_INTERVAL        = 500      -- check every 500ms
+local CLEANUP_COOLDOWN      = 5.0      -- minimum 5 seconds between cleanups
 
 -- GUI config
 local GUI_ENABLED          = false
@@ -91,9 +90,11 @@ function main()
 
     sampRegisterChatCommand('crashmon', cmdToggleGui)
 
+    sampAddChatMessage('{FFCC00}[AntiCrash] {FFFFFF}v1.8.0 loaded. Use {00FF00}/crashmon {FFFFFF}to toggle memory monitor.', 0xFFFFFFFF)
+
     local ws, peak = getWorkingSet()
-    print(string.format('[AntiCrash] v1.7.0 loaded. /crashmon to toggle GUI. Working set: %d MB. Cleanup at: %d / %d / %d MB',
-        math.floor(ws / 1024 / 1024), CLEANUP_THRESHOLD_MB, CLEANUP_HEAVY_MB, CRITICAL_THRESHOLD_MB))
+    print(string.format('[AntiCrash] v1.8.0 loaded. /crashmon to toggle GUI. Working set: %d MB',
+        math.floor(ws / 1024 / 1024)))
 
     while true do
         wait(CHECK_INTERVAL)
@@ -106,29 +107,18 @@ end
 function cmdToggleGui()
     GUI_ENABLED = not GUI_ENABLED
     if GUI_ENABLED then
-        sampAddChatMessage('[AntiCrash] {00FF00}Monitor ON', 0xFFFFCC00)
+        sampAddChatMessage('{FFCC00}[AntiCrash] {00FF00}Monitor ON', 0xFFFFFFFF)
     else
-        sampAddChatMessage('[AntiCrash] {FF4444}Monitor OFF', 0xFFFFCC00)
+        sampAddChatMessage('{FFCC00}[AntiCrash] {FF4444}Monitor OFF', 0xFFFFFFFF)
     end
 end
 
-function doCleanup(aggressive)
+function doCleanup()
+    -- Cooldown check
+    if os.clock() - lastCleanupTime < CLEANUP_COOLDOWN then return end
+
     pcall(function()
-        -- Free unused streaming models
         removeAllUnused()
-
-        if aggressive then
-            for i = 1, 20 do
-                removeLeastUsed()
-            end
-        end
-
-        -- Mark vehicle models as no longer needed (allows engine to unload them)
-        for modelId = 400, 611 do
-            if hasModelLoaded(modelId) then
-                markModelAsNoLongerNeeded(modelId)
-            end
-        end
     end)
     cleanupCount = cleanupCount + 1
     lastCleanupTime = os.clock()
@@ -155,10 +145,8 @@ function monitorMemory()
         end
     end
 
-    if lastWorkingSetMB >= CRITICAL_THRESHOLD_MB then
-        doCleanup(true)
-    elseif lastWorkingSetMB >= lastThreshold then
-        doCleanup(false)
+    if lastWorkingSetMB >= lastThreshold then
+        doCleanup()
     end
 end
 
@@ -173,10 +161,10 @@ function renderDraw()
     renderDrawBox(GUI_X, GUI_Y, GUI_WIDTH, 82, 0xAA000000)
 
     -- Title
-    renderFontDrawText(guiFont, 'AntiCrash v1.7', GUI_X + 4, GUI_Y + 2, 0xFFFFCC00)
+    renderFontDrawText(guiFont, 'AntiCrash v1.8', GUI_X + 4, GUI_Y + 2, 0xFFFFCC00)
 
     -- Memory usage color
-    local usageColor = 0xFF00FF00  -- green
+    local usageColor = 0xFF00FF00
     if wsMB >= CRITICAL_THRESHOLD_MB then
         usageColor = 0xFFFF0000
     elseif wsMB >= threshold then
@@ -190,7 +178,7 @@ function renderDraw()
         string.format('RAM: %d MB / %d MB (cap: %d)', wsMB, TOTAL_RAM_MB, threshold),
         GUI_X + 4, GUI_Y + 16, 0xFFCCCCCC)
 
-    -- Progress bar (relative to total RAM)
+    -- Progress bar
     local barX = GUI_X + 4
     local barY = GUI_Y + 30
     local barW = GUI_WIDTH - 8
@@ -199,11 +187,11 @@ function renderDraw()
     renderDrawBox(barX, barY, barW, GUI_BAR_HEIGHT, 0xFF333333)
     renderDrawBox(barX, barY, barW * fillRatio, GUI_BAR_HEIGHT, usageColor)
 
-    -- Threshold marker
+    -- Threshold marker (white)
     local thresholdPos = barX + barW * (threshold / TOTAL_RAM_MB)
     renderDrawBox(thresholdPos, barY, 2, GUI_BAR_HEIGHT, 0xFFFFFFFF)
 
-    -- Peak marker
+    -- Peak marker (red)
     local peakPos = barX + barW * math.min(peakMB / TOTAL_RAM_MB, 1.0)
     renderDrawBox(peakPos, barY, 2, GUI_BAR_HEIGHT, 0xFFFF4444)
 
@@ -218,8 +206,9 @@ function renderDraw()
 
     -- Cleanup counter
     local cleanupText = string.format('Cleanups: %d', cleanupCount)
-    if os.clock() - lastCleanupTime < 1.0 then
-        cleanupText = cleanupText .. ' {FF4444}[CLEANING]'
+    local timeSinceCleanup = os.clock() - lastCleanupTime
+    if timeSinceCleanup < 2.0 and cleanupCount > 0 then
+        cleanupText = cleanupText .. ' {FF4444}[CLEANED]'
     end
     renderFontDrawText(guiFontSmall, cleanupText, GUI_X + 4, GUI_Y + 69, 0xFF888888)
 end
