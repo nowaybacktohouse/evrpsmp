@@ -1,0 +1,112 @@
+
+---====19:21:05====---
+
+[19:21:05]  [Police LV] Полковник Martin_Milson: OG, начал вещание.
+[19:21:38]  [Police LV] Полковник Martin_Milson: OG, закончил вещание.
+[19:24:23]  [Police SF] Капитан Dmitry_Casillas: Gov, дело Guppy Goo рассмотрению не подлежит, ООП
+
+---====19:48:10====---
+
+[19:48:10]  [Police LS] Мл.Лейтенант Charlie_Jean: Gov, дело Daddy Wide рассмотрению не подлежит, ООП
+[19:50:12]  [Police LS] Майор Jeremiah_Bowman: OG, занимаю волну гос. новостей, просьба не перебивать.
+[19:50:26]  [Police LS] Майор Jeremiah_Bowman: OG, освободил волну гос.новостей.
+[19:52:09]  [Army SF] Ст.Сержант Egridze_Ancient: to af, желающие провести тренировку "КБ" против usaf sfa - на пдж 561
+[19:53:33]  [Police LV] Мл.Лейтенант Jason_Statkham: AF, 10-57, сине-черный автомобиль без номеров, GPS: -315.9, -1618.4, 15.4
+[19:53:57]  [Police LV] Полковник Martin_Milson: SOS Ф-11
+[19:54:28]  [Army SF] Ст.Сержант Ricardo_Pilla: LVPD, выслали отряд.
+[19:55:09]  [Police LS] Мл.Лейтенант Charlie_Jean: LVPD, 10-4 по 10-57, присоединяюсь к погоне
+[19:55:20]  [Police SF] Капитан Sereja_Sheppard: AF, открыты заявления в FBI HRT, подробнее в разделе FBI на оф.портале.
+[19:55:39]  [Army SF] Капитан Takizawa_Schwarm: LVPD, по SOS 10-99?
+[19:56:00]  [Police LV] Офицер Mihail_Dozor: SFa, пососу отмена
+[19:56:10]  [Police LV] Мл.Лейтенант Jason_Statkham: SAPD, 7-3-6 маячок ловите, на султане передвигается, трое вооруженых ООП
+[19:56:24]  [Army SF] Ст.Сержант Egridze_Ancient: FBI, войду? вызов
+[19:56:51]  [Police LV] Мл.Лейтенант Jason_Statkham: AF, 10-57, сине-черный автомобиль без номеров, GPS: 1310.9, -1777.4, 13.1
+[19:57:04]  [Police LV] Ст.Прапорщик Donald_Carington: LVPD, 10-4 по 10-57, присоединяюсь к погоне
+[19:57:23]  [Police LV] Полковник Martin_Milson: SOS Ф-17
+[19:57:49]  [Police LV] Офицер Mihail_Dozor: Gov, дело Wingardium Leviosa рассмотрению не подлежит, ООП
+[19:58:10]  [Police LV] Капитан Pashok_Kalashnikov: Gov, дело Leshka Pershing рассмотрению не подлежит, ООП
+[19:59:46]  [Army SF] Ст.Сержант Egridze_Ancient: to af, желающие поучаствовать в тренировке "КБ" против usaf sfa - на пдж 561
+[20:01:16]  [Police SF] Сержант Roy_Robinson: МОН, Труп Х 18. Заберите.
+[20:01:33]  [Police LS] Майор Jeremiah_Bowman: OG, освободил волну гос.новостей.
+[20:05:25]  [Police LS] Мл.Лейтенант Charlie_Jean: Gov, дело Semen Kingsman рассмотрению не подлежит, ООП
+[20:05:35]  [Police LV] Ст.Прапорщик Jonathan_Cooper: LVa, азезжаю на ваши пески, красный маяк.
+[20:06:01]  [Police SF] Капитан Dmitry_Casillas: Gov, дело Rento Kewazzo рассмотрению не подлежит, ООП
+[20:07:41]  [Police SF] Капитан Sereja_Sheppard: HRT, code 0, channel 726
+[20:08:12]  [Police SF] Капитан Sereja_Sheppard: AF, открыты заявления в FBI HRT, подробнее в разделе FBI на оф.портале.
+[20:08:26]  [Medic] Доктор Alexey_Milin: SFa, заезжаю на вашу территорию, доставка медикаментов
+[20:08:57]  [Army SF] Подполковник Robert_Prado: MOH, можете не обьявлять , когда едите разгружатся
+[20:10:25]  [Police LS] Майор Jeremiah_Bowman: OG, занимаю волну гос. новостей, просьба не перебивать.
+[20:10:39]  [Police LS] Майор Jeremiah_Bowman: OG, освободил волну гос.новостей.
+[20:10:50]  [Police LS] Лейтенант Furuta_Tetsuya: аф, желающие провести командный бой версус РРСГ ЛСПД - п. 486
+[20:11:24]  [Police SF] Ст.Лейтенант Alexei_Douglas: GOV, Заключеные из нашего КПЗ просят юриста, заранее благодарим.
+[20:14:27]  [Police LV] Капитан Mona_Liza: Gov, дело Mega Zorin рассмотрению не подлежит, ООП
+[20:17:01]  [Police SF] Капитан Sereja_Sheppard: HRT, code 0, channel 726
+[20:19:26]  [Police SF] Капитан Sereja_Sheppard: HRT, code 1, Р-14, ETA: 5 min, channel 726
+[20:20:01]  [Army LV] Генерал Vendetto_Rodriguez: FBI, уполномоченные, на связи? На п.175
+[20:20:35]  [Police LS] Майор Jeremiah_Bowman: OG, занимаю волну гос. новостей, просьба не перебивать.
+[20:20:49]  [Police LS] Майор Jeremiah_Bowman: OG, освободил волну гос.новостей.
+[20:22:49]  [Police LS] Мл.Лейтенант Penelope_Deladraze: Gov, дело Lia Mura рассмотрению не подлежит, ООП
+[20:23:03]  [Police SF] Майор Liviano_Ruthless: AF, открыт перевод в sfpd со звания Мл.Сержант, подробнее на pgr.242.
+[20:23:20]  [Police SF] Капитан Sereja_Sheppard: HRT, кто в пути? channel 726
+[20:23:51]  [Police SF] Майор Liviano_Ruthless: fbi, будьте любезны убрать свою машину у нас от входа, а то не пройти не проехать, спасибо
+[20:24:23]  [Police LV] Капитан Mona_Liza: Gov, дело Tom Keen рассмотрению не подлежит, ООП
+[20:25:16]  [Police LV] Ст.Прапорщик Jonathan_Cooper: LVa, покидаю вашу територию, красный маяк.
+[20:25:50]  [Police LV] Капитан Pashok_Kalashnikov: Gov, дело Artem Jarig рассмотрению не подлежит, ООП
+[20:26:49]  [FBI] Мл.Агент Ryo_Yukimatsu: AF, открыты заявления в FBI HRT, подробнее в разделе FBI на оф.портале.
+[20:27:06]  [Police SF] Майор Roy_Akkerman: AF, доступны переводы в SFPD с Мл.Сержанта, подробнее на пдж.236
+[20:27:37]  [Police LV] Ст.Прапорщик Donald_Carington: LVa, Д-15 фура стоит, отбили
+[20:29:27]  [Police SF] Капитан Heinrich_Reinhardt: SFa, Заедем на вашу территорию? Поимка
+[20:29:37]  [Army SF] Капитан Takizawa_Schwarm: SFPD, welcome
+[20:29:53]  [FBI] Мл.Агент Ryo_Yukimatsu: LVA, на ваших песках,чёрная ауди
+[20:30:28]  [FBI] Агент CID Ennio_Morricone: AF, открыты заявления в FBI HRT, подробнее в разделе FBI на оф.портале.
+[20:30:43]  [Police LV] Ст.Прапорщик Donald_Carington: Gov, дело Maxim Millers рассмотрению не подлежит, ООП
+[20:31:50]  [Police LV] Сержант Daiki_Bauer: Gov, дело Joseph Ker рассмотрению не подлежит, ООП
+[20:33:03]  [Police LS] Ст.Лейтенант Ernesto_Castilia: AF, открыты заявления в FBI HRT, подробнее в разделе FBI на оф.портале.
+[20:34:15]  [Army LV] Ст.Сержант Christian_Ritthaler: lvpd, благодарю Donald Carington, Bobbi Diaz, Pashok Kalashnikov за спасение фуры
+[20:35:26]  [Police SF] Майор Roy_Akkerman: OG, занял государственную волну, просьба не перебивать.
+[20:35:36]  [Army LV] Полковник Alina_Dron: СФа, возобновите поставки на наш склад.
+[20:35:46]  [Army SF] Подполковник Elya_Frightened: Освободила Государственную волну
+[20:36:12]  [Police LS] Лейтенант John_Batler: Gov, дело Slava Blinkov рассмотрению не подлежит, ООП
+[20:37:23]  [Police LS] Капитан Joern_Steinhauser: SFa, заезжаем к вам, задержание.
+[20:37:35]  [Police LS] Ст.Лейтенант Ernesto_Castilia: FBI, уполномоченные выйдите пожалуйста на связь по каналу 267
+[20:38:30]  [Police SF] Майор Roy_Akkerman: AF, доступны переводы в SFPD с Мл.Сержанта, подробнее на пдж.236
+[20:39:36]  [Army LV] Капитан Maxim_Ukolov: SFa, возобновите поставки на наш ГС, благодарю.
+[20:40:04]  [Army SF] Ст.Сержант Ricardo_Pilla: LVa, поставки ведутся.
+[20:40:38]  [Army LV] Капитан Maxim_Ukolov: FBI, уполномоченные, связь на п.54
+[20:41:40]  [Police LS] Капитан Melvin_Garret: Gov, дело James Carter рассмотрению не подлежит, ООП
+[20:42:02]  [Army LV] Капитан Maxim_Ukolov: SFa, возобновите поставки на наш ГС, благодарю.
+[20:44:16]  [Army LV] Полковник Alina_Dron: ЛВПД, по предварительной информации к нам едету много гетто, помощь нужна 
+[20:44:42]  [Police LV] Мл.Лейтенант Ray_Heartless: LVa, 10-4. Ожидаем.
+[20:45:05]  [Police LS] Ст.Лейтенант Ethan_Morlaw: FBI, прошу свяжитесь со мной по пейджере 5-6
+[20:45:26]  [Police SF] Майор Roy_Akkerman: OG, занял государственную волну, просьба не перебивать.
+[20:45:54]  [Police SF] Майор Roy_Akkerman: OG, освободил государственную волну.
+[20:46:05]  [Police LS] Ст.Лейтенант Ernesto_Castilia: AF, открыты заявления в FBI HRT, подробнее в разделе FBI на оф.портале.
+[20:46:48]  [Police SF] Майор Roy_Akkerman: AF, доступны переводы в SFPD с Мл.Сержанта, подробнее на пдж.236
+[20:49:44]  [Police LV] Капитан Pashok_Kalashnikov: AF, 10-57, серо-черный автомобиль с номерами MEOW03, GPS: 1988.9, 770.3, 10.3
+
+---====20:52:16====---
+
+[20:52:16]  [Police LV] Мл.Лейтенант Sasha_Sunside: fbi, руководство отпишитесь на п.361. заранее благодарю 
+[20:52:34]  [Army LV] Полковник Alina_Dron: ФБР, разрешите войти в офис, перевод.
+[20:53:17]  [Police LS] Ст.Лейтенант Ernesto_Castilia: AF, открыты заявления в FBI HRT, подробнее в разделе FBI на оф.портале.
+[20:53:38]  [Army LV] Полковник Alina_Dron: ФБР, разрешите войти в офис, перевод. *повторяя*
+[20:54:27]  [Police LV] Капитан Pashok_Kalashnikov: Gov, дело Chandelle Fotev рассмотрению не подлежит, ООП
+
+---====20:59:40====---
+
+[20:59:40]  [Army LV] Полковник Alina_Dron: ЛВПД, сос ЛВа скпп 
+[21:00:00]  [Police LV] Ст.Прапорщик Ethan_Black: Lva: Понял выехал!
+[21:00:11]  [Police LV] Ст.Прапорщик Ethan_Black: Lva: Понял выехал! РВП 5-10 минут!
+
+---====21:10:19====---
+
+[21:10:19]  [Police LV] Полковник Martin_Milson: OG, закончил вещание.
+[21:10:42]  [Police LV] Ст.Прапорщик Ethan_Black: AF, доступны переводы в LVPD с Мл.Сержанта, подробнее на пдж 607.
+[21:11:03]  [Police LV] Ст.Прапорщик Donald_Carington: Gov, дело Kirill Noviy рассмотрению не подлежит, ООП
+[21:11:24]  [Police LV] Мл.Лейтенант Sasha_Sunside: fbi, рук-во отпишитесь на п.361. заранее спасибо. 
+[21:11:34]  [Police LV] Ст.Прапорщик Donald_Carington: Gov, старшие на пдж. 277
+[21:13:05]  [Police LV] Ст.Прапорщик Ethan_Black: LSPD, пересекаю вашу юрисдикцию, Договор.
+[21:13:21]  [Police SF] Майор Roy_Akkerman: AF, доступны переводы в SFPD с Мл.Сержанта, подробнее на пдж.80
+[21:14:02]  [Army LV] Ст.Лейтенант Fernando_Peraza: AF, окажите помощь в порту, спасибо.
+[21:14:54]  [Police LS] Лейтенант John_Batler: Gov, дело Shawty Pivan рассмотрению не подлежит, ООП
+[21:15:36]  [Police SF] Майор Liviano_Ruthless: AF, открыт перевод в sfpd со звания Мл.Сержант, подробнее на pgr.242.

@@ -1,0 +1,98 @@
+
+---====07:04:48====---
+
+[07:04:48]  Полковник Faust_Blackwood[758]: [Deputy Sheriff] Alonso Montez, назовите ваше местоположение! На ответ 30 секунд! 
+[07:04:50]  Полковник Faust_Blackwood[758]: [Deputy Sheriff] Younes Perigosa, назовите ваше местоположение! На ответ 30 секунд! 
+[07:04:58]  Полковник Faust_Blackwood[758]: [Deputy Sheriff] Luri Bauer, назовите ваше местоположение! На ответ 30 секунд! 
+[07:05:06]  Капитан Younes_Perigosa[473]: «Chief of PA» на 2 этаже пополняю отдел,стажёра принимаю
+[07:05:18]  Полковник Faust_Blackwood[758]: [Deputy Sheriff] Департамент, общее построение в гараже! Через 1 минуту выезжаем
+[07:05:24]  Капитан Roks_Tortyga[611]: «SWAT» Почти приехали
+[07:05:38]  (( Полковник Faust_Blackwood: /ffixcar 14 sec, займите авто. ))
+[07:05:38]  Капитан Roks_Tortyga[611]: «SWAT» Проезжаем особняк русских олигархов
+[07:05:46]  (( Полковник Faust_Blackwood: /ffixcar 10 sec, займите авто. ))
+[07:05:47]  (( Полковник Faust_Blackwood: /ffixcar 5 sec, займите авто. ))
+[07:05:50]  Мл.Лейтенант Tekeo_Kaneko[663]: [Spec.Agent of CSI] да какие там олигархи, шныри одни
+[07:06:33]  Полковник Faust_Blackwood[758]: [Deputy Sheriff] 2 БФа возьмите
+[07:07:17]  (( Мл.Лейтенант Tekeo_Kaneko: АБ объедьте, там всех поголовно откидывает ))
+[07:07:45]  (( Лейтенант Martin_Twix: куда ехать то ))
+[07:07:55]  Полковник Faust_Blackwood[758]: [Deputy Sheriff] выезжайте кушать и в О-19, мост ЛС-ЛВ
+[07:07:56]  Полковник Faust_Blackwood[758]: [Deputy Sheriff] выезжайте кушать и в О-19, мост ЛС-ЛВ
+[07:08:15]  Полковник Faust_Blackwood[758]: [Deputy Sheriff] крузеров побольше возьмите
+[07:08:16]  Ст.Лейтенант Chaze_Matterazi[617]: Officer of CPD PA, экзаменаторы на связи?
+[07:08:21]  Ст.Прапорщик Jonathan_Cooper[368]: «Dep.Chief of PA» Да
+[07:08:22]  Лейтенант Martin_Twix[185]: «Instructor of PA» -  на связи
+[07:08:24]  Ст.Лейтенант Chaze_Matterazi[617]: Officer of CPD АММО 10-6?
+[07:08:25]  Капитан Younes_Perigosa[473]: «Chief of PA» Да
+[07:08:32]  Полковник Faust_Blackwood[758]: [Deputy Sheriff] АММО не трогаем, все в О-19
+[07:09:22]  Сержант Sombrero_Montano[752]: [Officer of CPD] A-706. Патруль Казино Изумрудный Остров. Напарников нет, over.
+[07:09:28]  Полковник Faust_Blackwood[758]: [Deputy Sheriff] Сомбреро, в О-19
+[07:09:35]  Прапорщик Sam_Lieber[712]: [Trainee of PA] Проверка рации.
+[07:09:38]  Сержант Sombrero_Montano[752]: [Officer of CPD] A-706. Патруль Центральное Шоссе. Напарников нет, over.
+[07:09:41]  Капитан Younes_Perigosa[473]: «Chief of PA» Слышно отлично
+[07:09:43]  Сержант Sombrero_Montano[752]: [Officer of CPD] еду
+
+---====07:13:35====---
+
+[07:13:35]  Полковник Faust_Blackwood[758]: [Deputy Sheriff] CPD, CSI - проверяйте документы, обыск и багажник! Таксистов и автобусников п
+[07:14:01]  (( Капитан Alonso_Montez: А если за рулём такси или автобуса геттовец? ))
+[07:14:44]  Капитан William_Rockstar[453]: «SWAT» Привет
+
+---====07:19:22====---
+
+[07:19:22]  (( Капитан Deadshot_Fearful: найс читак раскидал весь блок пост ))
+[07:19:31]  (( Капитан Deadshot_Fearful: покикало всех ахахах ))
+[07:21:07]  (( Капитан Deadshot_Fearful: фикскар ))
+[07:22:19]  Капитан William_Rockstar[453]: «SWAT» Чей то вообщше Блок пост
+[07:22:25]  Капитан Deadshot_Fearful[248]: «SWAT» ЛСПД
+[07:22:26]  Ст.Лейтенант Quincy_Vandenreich[451]: «SWAT» лспд 
+[07:22:55]  Прапорщик Cosmos_Edwards[714]: [Inspector of CSI]: Daiki Bauer, чем заняты?
+[07:23:01]  Сержант Daiki_Bauer[405]: [Agent of CSI] На блокпосту нахожусь.
+[07:23:26]  (( Прапорщик Cosmos_Edwards: а что у вас там за блокпост, я только зашел ))
+[07:24:08]  Прапорщик Cosmos_Edwards[714]: [Inspector of CSI]: CSI, выезжаем в порт. Сбор в подземной парковке. Как приняли? пдж. 714
+
+---====07:27:55====---
+
+[07:27:55]  Капитан Christian_Ruthellss[724]: «SWAT» Внутри 3 мафиозника в масках
+[07:28:06]  (( Сержант Sombrero_Montano: fixxx ))
+[07:28:10]  (( Капитан Christian_Ruthellss: нет ))
+[07:28:12]  (( Полковник Faust_Blackwood: /ffixcar 14 sec, займите авто. ))
+[07:28:16]  (( Полковник Faust_Blackwood: /ffixcar 10 sec, займите авто. ))
+[07:28:16]  (( Капитан Christian_Ruthellss: отмена ))
+[07:28:18]  (( Полковник Faust_Blackwood: /ffixcar отменен ))
+[07:28:20]  (( Капитан Christian_Ruthellss: мы на аммо ))
+[07:28:24]  (( Капитан Christian_Ruthellss: нам пешком потом что ле ))
+[07:28:32]  (( Полковник Faust_Blackwood: леееее ))
+[07:28:43]  (( Полковник Faust_Blackwood: леееее ))
+[07:28:55]  (( Полковник Faust_Blackwood: на 2м этаже - 2 человека ))
+[07:29:01]  Полковник Faust_Blackwood[136]: [Deputy Sheriff] на 2м этаже - 2 человека
+[07:29:17]  (( Капитан Deadshot_Fearful: твикс ))
+[07:29:21]  Полковник Faust_Blackwood[136]: [Deputy Sheriff] внутри 4 человека
+[07:29:22]  (( Капитан Deadshot_Fearful: не частная а охраняемая ))
+[07:29:30]  Полковник Faust_Blackwood[136]: [Deputy Sheriff] внутри 4 человека, 1 у кассы, 3 на лестнице
+[07:29:31]  Полковник Faust_Blackwood[136]: [Deputy Sheriff] внутри 4 человека, 1 у кассы, 3 на лестнице
+[07:29:31]  (( Лейтенант Martin_Twix: видел, перевыдал ))
+[07:29:34]  (( Капитан Deadshot_Fearful: найс ))
+[07:29:37]  Капитан Christian_Ruthellss[724]: «SWAT» 10-4
+
+---====07:33:00====---
+
+[07:33:00]  (( Лейтенант Martin_Twix: и он опять оффнулся..... ))
+[07:33:33]  (( Капитан Christian_Ruthellss: не сейцчас ))
+[07:33:36]  (( Капитан Christian_Ruthellss: ВЫ КУДА ))
+[07:33:41]  (( Капитан Christian_Ruthellss: Я СКАЗАЛ КАК БУДЕТ КОМАНДА ШТУРМ ))
+[07:33:47]  (( Капитан Christian_Ruthellss: Я СКАЗАЛ КАК БУДЕТ КОМАНДА ШТУРМ ))
+[07:33:58]  Капитан Christian_Ruthellss[724]: «SWAT» Выходите  я еще не дал команду штурм
+[07:34:05]  Капитан Christian_Ruthellss[724]: «SWAT» Ухо чистить надо вам
+[07:34:49]  (( Полковник Faust_Blackwood: 2Ж45 аммо ))
+[07:35:10]  Прапорщик Sam_Lieber[712]: [Trainee of PA] Strage United на связь.
+[07:35:37]  Кадет Strage_United[463]: тут
+[07:36:17]  Прапорщик Sam_Lieber[712]: [Trainee of PA] Сдавать экзамены будешь?
+[07:36:30]  Кадет Strage_United[463]: Academy of PA Буду
+[07:36:39]  Прапорщик Sam_Lieber[712]: [Trainee of PA] Когда готов будешь?
+[07:37:00]  (( Капитан Christian_Ruthellss: сколько кд? ))
+[07:37:04]  Кадет Strage_United[463]: Academy of PA Cейчас
+[07:37:16]  Прапорщик Sam_Lieber[712]: [Trainee of PA] На 2 этаж.
+[07:37:31]  Кадет Strage_United[463]: Academy of PA 10-4
+[07:38:15]  (( Полковник Faust_Blackwood: на 2м - двое афк по 120+ сек ))
+[07:39:15]  Капитан Christian_Ruthellss[724]: «SWAT» AMMO LV  10-99,молодцы кто ставил обекты снимайте
+[07:40:41]  Сержант Sombrero_Montano[406]: [Officer of CPD] A-252. Патруль Пилсонский перекресток. Напарники: P.Vinchester, over.

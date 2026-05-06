@@ -1,0 +1,34 @@
+[13:18:52.806405] (system)	Session started.
+[13:18:52.807440] (debug)	Module handle: 599C0000
+
+MoonLoader v.026.5-beta loaded.
+Developers: FYP, hnnssy, EvgeN 1137
+
+Copyright (c) 2016, BlastHack Team
+http://blast.hk/moonloader/
+
+[13:18:52.807440] (info)	Working directory: C:\Games\EvolveLauncher\client\moonloader
+[13:18:52.807440] (debug)	FP Control: 0109001F
+[13:18:52.807440] (debug)	Game: GTA SA 1.0.0.0 US
+[13:18:52.807440] (system)	Installing pre-game hooks...
+[13:18:52.809518] (system)	Hooks installed.
+[13:18:56.956515] (debug)	Initializing opcode handler table
+[13:18:56.956515] (debug)	package.path = C:\Games\EvolveLauncher\client\moonloader\lib\?.lua;C:\Games\EvolveLauncher\client\moonloader\lib\?\init.lua;C:\Games\EvolveLauncher\client\moonloader\?.lua;C:\Games\EvolveLauncher\client\moonloader\?\init.lua;.\?.lua;C:\Games\EvolveLauncher\client\moonloader\lib\?.luac;C:\Games\EvolveLauncher\client\moonloader\lib\?\init.luac;C:\Games\EvolveLauncher\client\moonloader\?.luac;C:\Games\EvolveLauncher\client\moonloader\?\init.luac;.\?.luac
+[13:18:56.956515] (debug)	package.cpath = C:\Games\EvolveLauncher\client\moonloader\lib\?.dll;
+[13:18:56.964517] (system)	Loading script 'C:\Games\EvolveLauncher\client\moonloader\AutoReboot.lua'...
+[13:18:56.965517] (debug)	New script: 06E43C2C
+[13:18:56.967517] (system)	ML-AutoReboot: Loaded successfully.
+[13:18:56.968517] (system)	Loading script 'C:\Games\EvolveLauncher\client\moonloader\check-moonloader-updates.lua'...
+[13:18:56.968517] (debug)	New script: 10D0574C
+[13:18:56.973045] (system)	Check MoonLoader Updates: Loaded successfully.
+[13:18:56.973045] (system)	Loading script 'C:\Games\EvolveLauncher\client\moonloader\Government Tools.luac'...
+[13:18:56.973045] (debug)	New script: 10D89B54
+[13:18:57.261877] (system)	Government Tools: Loaded successfully.
+[13:18:57.262391] (system)	Loading script 'C:\Games\EvolveLauncher\client\moonloader\reload_all.lua'...
+[13:18:57.262391] (debug)	New script: 19F0BB74
+[13:18:57.263420] (system)	ML-ReloadAll: Loaded successfully.
+[13:18:57.263420] (system)	Loading script 'C:\Games\EvolveLauncher\client\moonloader\SF Integration.lua'...
+[13:18:57.263420] (debug)	New script: 19F07B5C
+[13:18:57.266686] (system)	SF Integration: Loaded successfully.
+[13:19:10.826532] (system)	Installing post-load hooks...
+[13:19:10.826532] (system)	Hooks installed.

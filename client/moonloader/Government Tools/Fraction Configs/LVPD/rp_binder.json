@@ -1,0 +1,69 @@
+{
+  "Saint-Louis":[
+    {
+      "activate":true,
+      "command":"showudost",
+      "text":"/me открыл своё удостоверение, после чего показал его в открытом виде\n{wait:1300}\n{command}"
+    },
+    {
+      "activate":true,
+      "command":"deject",
+      "text":"/me открыл дверь, после чего вытащил преступника\n{wait:1300}\n{command}"
+    },
+    {
+      "activate":true,
+      "command":"take",
+      "text":"/me достал перчатки из подсумки и начал производить обыск\n{wait:1300}\n{command}"
+    },
+    {
+      "activate":true,
+      "command":"frisk",
+      "text":"/me достал перчатки из подсумки и начал производить обыск\n{wait:1300}\n{command}"
+    },
+    {
+      "activate":true,
+      "command":"cuff",
+      "text":"/me заломал преступнику руки, после чего нацепил наручники\n{wait:1300}\n{command}"
+    },
+    {
+      "activate":true,
+      "command":"cput",
+      "text":"/me открыл дверь, после чего затолкал преступника в машину\n{wait:1300}\n{command}"
+    },
+    {
+      "activate":true,
+      "command":"ceject",
+      "text":"/me открыл дверь, после чего высадил преступника в участок\n{wait:1300}\n{command}"
+    },
+    {
+      "activate":true,
+      "command":"arrest",
+      "text":"/me достал ключи от КПЗ, после чего открыл его и затолкал преступника\n{wait:1300}\n{command}"
+    },
+    {
+      "activate":true,
+      "command":"protocol1",
+      "text":"/me открыл шкафчик с папкой, достал бланк для протокола, начал заполнять\n{wait:4900}\n/me достал КПК и сделал фотографию человека\n{wait:6000}\n/me заполнив бланк протокола, дал человеку ручку и указал где нужно подписать"
+    },
+    {
+      "activate":true,
+      "command":"fara",
+      "text":"/me дотронулся до фары, оставив опечаток"
+    },
+    {
+      "activate":true,
+      "command":"ky",
+      "text":"Здравствуйте, Офицер Бауер. Предъявите ваши документы"
+    },
+    {
+      "activate":true,
+      "command":"doki",
+      "text":"Пожалуста, предъявите ваши документы."
+    },
+    {
+      "activate":true,
+      "command":"protocol0",
+      "text":"/me отцепил одну руку от наручников, после чего прицепил её к столу"
+    }
+  ]
+}

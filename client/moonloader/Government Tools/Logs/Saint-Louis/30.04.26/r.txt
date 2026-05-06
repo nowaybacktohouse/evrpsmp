@@ -1,0 +1,485 @@
+
+---====05:58:05====---
+
+[05:58:05]  (( Полковник Faust_Blackwood: /ffixcar 10 sec, займите авто. ))
+[05:58:06]  (( Сержант Daiki_Bauer: thx ))
+[05:58:10]  (( Полковник Faust_Blackwood: /ffixcar 5 sec, займите авто. ))
+[05:58:52]  Мл.Лейтенант Isaac_Fisher[632]: [Supervisor of CPD] Провожу 10-55, сектор: К-20. Напарники: T.Kaneko. 10-6, over-over
+[05:59:16]  Лейтенант Tekeo_Kaneko[663]: [Spec. Agent of CSI] Преследую фиолетовый Sultan без номеров
+[05:59:18]  Лейтенант Tekeo_Kaneko[663]: [Spec. Agent of CSI] Местоположение: Южная автострада имени Юлиуса, К-19. GPS: 1558.5, 837.3, 6.5
+[05:59:21]  Мл.Лейтенант Isaac_Fisher[632]: [Supervisor of CPD] 10-4, присоединяюсь к погоне за Sultan без номеров
+[05:59:33]  Лейтенант Tekeo_Kaneko[663]: [Spec. Agent of CSI] Преследую фиолетовый Sultan без номеров
+[05:59:35]  Лейтенант Tekeo_Kaneko[663]: [Spec. Agent of CSI] Местоположение: Пустынный Округ, Л-15. GPS: 520.3, 703.9, 3.2
+[05:59:35]  Капитан Younes_Perigosa[614]: «Inspector of PA» 10-4, присоединяюсь к погоне за Sultan без номеров
+[05:59:46]  Капитан Mona_Liza[608]: «SWAT» swat 10-8
+[05:59:50]  Лейтенант Tekeo_Kaneko[663]: [Spec. Agent of CSI] Преследую фиолетовый Sultan без номеров
+[05:59:51]  Лейтенант Tekeo_Kaneko[663]: [Spec. Agent of CSI] Местоположение: Пустынный Округ, Л-13. GPS: 19.1, 642.3, 7.4
+[06:00:08]  (( Мл.Лейтенант Sasha_Sunside: Tekeo_Kaneko ты где ))
+[06:00:09]  Лейтенант Tekeo_Kaneko[663]: [Spec. Agent of CSI] Преследую фиолетовый Sultan без номеров
+[06:00:11]  Лейтенант Tekeo_Kaneko[663]: [Spec. Agent of CSI] Местоположение: Тьерра Робада, К-9. GPS: -846.4, 985.2, 24.3
+[06:00:12]  Майор Dennis_Perchinskyi[709]: «Director of O.C.O.» 10-4, присоединяюсь к погоне за Sultan без номеров
+[06:00:25]  Лейтенант Tekeo_Kaneko[663]: [Spec. Agent of CSI] Преследую фиолетовый Sultan без номеров
+[06:00:26]  Лейтенант Tekeo_Kaneko[663]: [Spec. Agent of CSI] Местоположение: Сан-Фиерро, К-7. GPS: -1346.2, 894.7, 46.3
+[06:00:31]  (( Мл.Лейтенант Sasha_Sunside: Tekeo_Kaneko после погоне забирай мне я у гараже ))
+[06:00:33]  (( Мл.Лейтенант Sasha_Sunside: Tekeo_Kaneko после погоне забирай мне я у гараже ))
+[06:01:54]  (( Лейтенант Tekeo_Kaneko: 462 ))
+[06:01:57]  (( Лейтенант Tekeo_Kaneko: 268 ))
+[06:03:48]  (( Мл.Лейтенант Sasha_Sunside: Tekeo_Kaneko ты где ))
+[06:04:49]  Jason_Statkham взял(а) ключи от камеры. Причина: ворк
+[06:05:35]  (( Мл.Лейтенант Sasha_Sunside: Tekeo_Kaneko ты где ))
+[06:05:50]  Tekeo_Kaneko взял(а) ключи от камеры. Причина: для работы
+[06:07:04]  (( Подполковник Benjamin_Remavelli: В департаменте объявлен розыгрыш с фондом в 75.000.000$ ))
+[06:07:05]  (( Подполковник Benjamin_Remavelli: Для участия нужно всего лишь оставить свой никнейм в теме. ))
+[06:07:07]  (( Подполковник Benjamin_Remavelli: Ознакомиться можете по ссылке - https://evolve-rp.su/threads/524927/ ))
+[06:07:16]  Майор Vlad_Werber[288]: «Director of PSB» Дело №626 без протокола 
+[06:09:43]  Полковник Martin_Milson[132]: «Chief of Staff» SOS, запрашиваю доп. юнитов в сектор У-21. GPS: 2222.0, -1324.1, 23.8
+[06:09:46]  Лейтенант Tekeo_Kaneko[663]: [Spec. Agent of CSI] 10-4, выдвигаюсь на поддержку в сектор У-21
+[06:09:51]  Прапорщик Pablo_Vinchester[503]: [Officer of CPD]: 10-4, выдвигаюсь на поддержку в сектор У-21
+[06:09:52]  Лейтенант Jason_Statkham[494]: «SWAT» SOS, запрашиваю доп. юнитов в сектор У-21. GPS: 2078.3, -1340.9, 24.0
+[06:09:55]  Майор Dennis_Perchinskyi[709]: «Director of O.C.O.» 10-4, выдвигаюсь на поддержку в сектор У-21
+[06:10:02]  (( Майор Dennis_Perchinskyi: ! ))
+[06:10:16]  Капитан Mona_Liza[608]: «SWAT» 10-4, выдвигаюсь на поддержку в сектор У-21
+[06:10:21]  Капитан Mona_Liza[608]: «SWAT» 10-4, выдвигаюсь на поддержку в сектор У-21
+[06:10:25]  Прапорщик Pablo_Vinchester[503]: [Officer of CPD]: 10-4, выдвигаюсь на поддержку в сектор У-21
+[06:10:30]  Полковник Martin_Milson[132]: «Chief of Staff» Pablo отмена
+[06:10:53]  Капитан Maksim_Gloris[564]: [Chief of PA] Департамент, минуточку внимания! Приглашаем на стажировку в отдел PA.
+[06:10:58]  Капитан Maksim_Gloris[564]: [Chief of PA] Мы занимаемся обучением и наставничеством кадетов.
+[06:11:03]  Капитан Maksim_Gloris[564]: [Chief of PA] Каждый принятый экзамен у кадета премируется.
+[06:11:08]  Капитан Maksim_Gloris[564]: [Chief of PA] Подробнее на мой пейджер - 564.
+[06:13:22]  (( Мл.Лейтенант Sasha_Sunside: кто заберёт в патруль? ))
+[06:13:31]  (( Подполковник Benjamin_Remavelli: В департаменте объявлен розыгрыш с фондом в 75.000.000$ ))
+[06:13:32]  (( Подполковник Benjamin_Remavelli: Для участия нужно всего лишь оставить свой никнейм в теме. ))
+[06:13:33]  (( Подполковник Benjamin_Remavelli: Ознакомиться можете по ссылке - https://evolve-rp.su/threads/524927/ ))
+[06:14:08]  Капитан Maksim_Gloris[564]: [Chief of PA] Патрулируем город, Д-21 Центральное Шоссе Напарников нет, доступен 
+[06:19:36]  Полковник Faust_Blackwood[559]: [Deputy Sheriff] Sasha Sunside на связь
+[06:19:43]  Мл.Лейтенант Sasha_Sunside[553]: «Agent of CSI»: На ней.
+[06:20:05]  Полковник Martin_Milson[346]: «Chief of Staff» Cаша убери свой ДНК немедленно
+[06:20:06]  Полковник Faust_Blackwood[559]: [Deputy Sheriff] убери ДНК, ты его поставил на место парковки штабного состава
+[06:20:10]  Полковник Martin_Milson[346]: «Chief of Staff» С гаража
+[06:20:16]  (( Мл.Лейтенант Sasha_Sunside: запрещено? ))
+[06:20:17]  Капитан Maksim_Gloris[564]: [Chief of PA] в пути мы
+[06:20:18]  Полковник Martin_Milson[346]: «Chief of Staff» Стоянка у ДНК у спортзала
+[06:20:20]  Полковник Faust_Blackwood[559]: [Deputy Sheriff] ДНК можешь в парке у банка поставить
+[06:20:21]  Полковник Martin_Milson[346]: «Chief of Staff» Стоянка у ДНК у спортзала около LVPD
+[06:20:34]  Мл.Лейтенант Sasha_Sunside[553]: «Agent of CSI»: 10-4
+[06:21:30]  Полковник Faust_Blackwood[559]: [Deputy Sheriff] Департамент, с холла уходим и за работу! Доклады с патрулей не забываем!
+[06:21:30]  Полковник Faust_Blackwood[559]: [Deputy Sheriff] Департамент, с холла уходим и за работу! Доклады с патрулей не забываем!
+[06:29:18]  Подполковник Benjamin_Remavelli[390]: [Director of OSO]: Преследую черно-серый Audi RS 7 без номеров
+[06:29:18]  Подполковник Benjamin_Remavelli[390]: [Director of OSO]: Местоположение: Блэкфилдский перекресток, К-18. GPS: 1294.4, 898.3, 6
+[06:29:18]  Полковник Martin_Milson[346]: «Chief of Staff» 10-4, присоединяюсь к погоне за Audi RS 7 без номеров
+[06:29:18]  (( Полковник Faust_Blackwood: /ffixcar 14 sec, займите авто. ))
+[06:29:18]  (( Полковник Faust_Blackwood: /ffixcar 10 sec, займите авто. ))
+[06:29:18]  (( Полковник Faust_Blackwood: /ffixcar 5 sec, займите авто. ))
+[06:29:18]  Подполковник Benjamin_Remavelli[390]: [Director of OSO]: Преследую черно-серый Audi RS 7 без номеров
+[06:29:18]  Подполковник Benjamin_Remavelli[390]: [Director of OSO]: Местоположение: Северная автострада имени Юлиуса, В-19. GPS: 1524.8, 
+[06:29:18]  Подполковник Benjamin_Remavelli[390]: [Director of OSO]: Преследую черно-серый Audi RS 7 без номеров
+[06:29:18]  Подполковник Benjamin_Remavelli[390]: [Director of OSO]: Местоположение: Восточная автострада имеми Юлиуса, В-23. GPS: 2659.5,
+[06:29:18]  Мл.Сержант Furio_Guinta[52]: [Officer of CPD] ахаххахахахах максим как ты дожил до подпола
+[06:29:18]  Подполковник Benjamin_Remavelli[390]: [Director of OSO]: С кайфом.
+[06:29:18]  Полковник Faust_Blackwood[559]: [Deputy Sheriff] не боись, через 2 недели снова кэпом будет
+[06:29:18]  Капитан Roks_Tortyga[202]: «SWAT» Берите пример
+[06:29:18]  Подполковник Benjamin_Remavelli[390]: [Director of OSO]: Никогда в жизни.
+[06:29:18]  Полковник Martin_Milson[346]: «Chief of Staff» АММО проверьте
+[06:29:18]  Подполковник Benjamin_Remavelli[390]: [Director of OSO]: SOS, запрашиваю доп. юнитов в сектор К-21. GPS: 2147.7, 943.2, 10.7
+[06:29:18]  Полковник Martin_Milson[346]: «Chief of Staff» Внимание ! АММО ЛВ ЧС ! От офицера к АММО немедленно ! Занять оцепление !
+[06:29:18]  Полковник Martin_Milson[346]: «Chief of Staff» Без команды внутрь не заходить !
+[06:29:18]  Офицер Bobbi_Diaz[677]: [Officer of CPD]) 10-4, выдвигаюсь на поддержку в сектор К-21
+[06:40:46]  (( Мл.Лейтенант Sasha_Sunside: ) ))
+[06:40:46]  (( Капитан Maksim_Gloris: БЕГИ ))
+[06:40:46]  (( Мл.Лейтенант Sasha_Sunside: ну как тебя фокус)? ))
+[06:40:46]  (( Капитан Maksim_Gloris: ХХАХХ ))
+[06:40:46]  (( Мл.Лейтенант Sasha_Sunside: крыша ))
+[06:40:46]  (( Капитан Maksim_Gloris: я афк ))
+[06:40:46]  Полковник Martin_Milson[346]: «Chief of Staff» Danny Marquez получает выговор по ст. 4.3 федерального постановления
+[06:40:46]  Мл.Лейтенант Sasha_Sunside[553]: «Agent of CSI»: Понятно. 
+[06:40:46]  (( Полковник Martin_Milson: Это кто так /vacancy сделал ? ))
+[06:40:46]  Офицер Bobbi_Diaz[677]: [Officer of CPD]) Провожу 10-55, сектор: Л-20. Напарников нет. 10-6, over-over
+[06:40:46]  (( Майор Vlad_Werber: через 20 минут будет тренеровка, особо не расходимся с игры ))
+[06:40:46]  (( Капитан Roks_Tortyga: прикольно кстати удобно ))
+[06:40:46]  Прапорщик Pablo_Vinchester[503]: [Officer of CPD]: Провожу 10-55, сектор: И-21. Напарников нет. 10-6, over-over
+[06:40:46]  (( Капитан Roks_Tortyga: только знают ли кадеты о /vacancy ))
+[06:40:46]  (( Полковник Martin_Milson: Собесы 2 раза в день в /gov ))
+[06:40:46]  Мл.Сержант Furio_Guinta[52]: [Officer of CPD] боби диаз а михаил дазор твой парень?
+[06:40:46]  (( Полковник Martin_Milson: Для ПД ))
+[06:40:46]  Офицер Bobbi_Diaz[677]: [Officer of CPD]) Нет
+[06:40:46]  Мл.Сержант Furio_Guinta[52]: [Officer of CPD] не ври да
+[06:40:46]  Мл.Сержант Furio_Guinta[52]: [Officer of CPD] сосетесь с ним?
+[06:40:46]  Офицер Bobbi_Diaz[677]: [Officer of CPD]) А это вообще к чему?
+[06:40:46]  Прапорщик Jonathan_Cooper[104]: «Inspector of PA» Департамент, минуточку внимания! Приглашаем на стажировку в отдел PA.
+[06:40:46]  Мл.Сержант Furio_Guinta[52]: [Officer of CPD] не зна прост слухи
+[06:40:46]  Мл.Сержант Furio_Guinta[52]: [Officer of CPD] наверно
+[06:40:46]  Прапорщик Jonathan_Cooper[104]: «Inspector of PA» Мы занимаемся обучением и наставничеством кадетов.
+[06:40:46]  Прапорщик Jonathan_Cooper[104]: «Inspector of PA» Каждый принятый экзамен у кадета премируется.
+[06:40:46]  Прапорщик Pablo_Vinchester[503]: [Officer of CPD]: SOS, запрашиваю доп. юнитов в сектор И-21. GPS: 2078.1, 1158.9, 10.8
+[06:40:47]  Прапорщик Jonathan_Cooper[104]: «Inspector of PA» Подробнее на мой пейджер - 104.
+[06:40:47]  Прапорщик Pablo_Vinchester[503]: [Officer of CPD]: SOS, запрашиваю доп. юнитов в сектор И-21. GPS: 2092.3, 1154.1, 11.6
+[06:40:47]  Прапорщик Pablo_Vinchester[503]: [Officer of CPD]: SOS, запрашиваю доп. юнитов в сектор И-21. GPS: 2106.2, 1148.7, 10.8
+[06:41:04]  Прапорщик Jonathan_Cooper[104]: «Inspector of PA» Кадеты желающие сдать экзамены, прослушать лекцию, обращайтесь на пдж.104
+[06:46:57]  Офицер Bobbi_Diaz[677]: [Officer of CPD]) SOS, запрашиваю доп. юнитов в сектор В-23. GPS: 2529.3, 2341.6, 10.5
+[06:46:59]  Подполковник Benjamin_Remavelli[390]: [Director of OSO]: 10-4, выдвигаюсь на поддержку в сектор В-23
+[06:47:39]  William_Rockstar взял(а) ключи от камеры. Причина: ворк
+[06:49:14]  Капитан William_Rockstar[289]: «SWAT» 10-99 по 10-57, водитель красно-белого Boxville с номерами 1STE1474 задержан
+[06:50:47]  Майор Vlad_Werber[288]: «Director of PSB» Департамент, построение в подземной парковке, РВП 10 минут, тренировка с фондом!
+[06:50:47]  Майор Vlad_Werber[288]: «Director of PSB» Департамент, построение в подземной парковке, РВП 10 минут, тренировка с фондом!
+[06:50:49]  Майор Vlad_Werber[288]: «Director of PSB» пополните БП и перекусите сначало
+
+---====06:58:06====---
+
+[06:58:06]  Полковник Martin_Milson[346]: «Chief of Staff» Еще 2 человека требуются на тренировку
+[06:58:13]  Полковник Martin_Milson[346]: «Chief of Staff» В ПП давайте 
+[06:58:14]  Лейтенант Tekeo_Kaneko[467]: [Spec. Agent of CSI] Еще +3 щас будем
+[06:58:38]  (( Майор Vlad_Werber: Внимание ! Эвакуация служебного транспорта 15 секунд ! ))
+[06:58:43]  (( Майор Vlad_Werber: Внимание ! Эвакуация служебного транспорта 10 секунд ! ))
+[06:58:47]  (( Майор Vlad_Werber: Внимание ! Эвакуация служебного транспорта 5 секунд ! ))
+[07:02:01]  Полковник Martin_Milson[346]: «Chief of Staff» Машины ставьте
+[07:02:09]  Полковник Martin_Milson[346]: «Chief of Staff» В аэропорт LV, 4я где ?
+[07:02:56]  Капитан Younes_Perigosa[614]: «Inspector of PA» A-240. Патруль г. Лас-Вентурас,К-20,Напарники: B.Byason.
+[07:03:21]  (( Ст.Прапорщик Vyacheslav_Schwartz: ffixcar ))
+[07:03:29]  (( Полковник Martin_Milson: ffixcar недоступен временно ! Тренировка ))
+[07:03:30]  (( Полковник Martin_Milson: ffixcar недоступен временно ! Тренировка ))
+[07:04:01]  Danil_Schwartz взял(а) ключи от камеры. Причина: работа
+[07:06:24]  Лейтенант Bon_Byason[812]: [Officer of CPD]: A-240. Продолжаем патрулировать город. Напарники: Напарники: Y.Perigosa.
+[07:06:35]  Сержант Sombrero_Montano[480]: [Officer of CPD] A-252. Патруль г. Лас Вентурас. Напарники: P.Vinchester, over..
+[07:08:34]  Vyacheslav_Schwartz взял(а) ключи от камеры. Причина: работа
+[07:08:47]  (( Лейтенант Tekeo_Kaneko: подробнее что делать то ))
+[07:08:51]  Майор Vlad_Werber[288]: «Director of PSB» [T] Ваша задача уничтожить оба экипажа противника!
+[07:08:56]  Капитан Roks_Tortyga[202]: «SWAT» 10-4
+[07:09:06]  Майор Vlad_Werber[288]: «Director of PSB» [T] команды готовы?
+[07:09:10]  Капитан Mona_Liza[515]: «SWAT» да
+[07:09:12]  Лейтенант Tekeo_Kaneko[467]: [Spec. Agent of CSI] да
+[07:09:23]  Полковник Martin_Milson[346]: «Chief of Staff» Разрешено выходить и стрелять, разрешено стрелять с окна когда водитель на мест
+[07:09:37]  Полковник Martin_Milson[346]: «Chief of Staff» Задача уничтожить команду противника
+[07:09:38]  Майор Vlad_Werber[288]: «Director of PSB» [T] когда машина затушена можно отстреливаться от нее!
+[07:10:12]  Офицер Danny_Marquez[314]: [Officer of CPD]: Выходить можно из машины?
+[07:10:15]  Майор Vlad_Werber[288]: «Director of PSB» [T] Победа будет только за выжившими из 1 команды!
+[07:10:18]  (( Капитан Roks_Tortyga: =) ))
+[07:10:18]  Майор Vlad_Werber[288]: «Director of PSB» [T] когда машина затушена можно отстреливаться от нее!
+[07:10:19]  Прапорщик Jonathan_Cooper[104]: «Inspector of PA» Да
+[07:10:24]  Майор Vlad_Werber[288]: «Director of PSB» [T] Начали!
+[07:10:25]  Майор Vlad_Werber[288]: «Director of PSB» [T] Начали!
+[07:11:45]  (( Прапорщик Pablo_Vinchester: фииик ))
+[07:11:47]  Майор Vlad_Werber[288]: «Director of PSB» [T] Команда красных WIN
+[07:11:50]  Капитан Roks_Tortyga[202]: «SWAT» Грац
+[07:11:53]  (( Прапорщик Pablo_Vinchester: фииикс ))
+[07:11:55]  Полковник Martin_Milson[346]: «Chief of Staff» Cвободные - в порт
+[07:12:04]  (( Капитан Mona_Liza: ффикс ))
+[07:12:08]  (( Полковник Martin_Milson: Внимание ! Эвакуация служебного транспорта 15 секунд ! ))
+[07:12:13]  (( Полковник Martin_Milson: Внимание ! Эвакуация служебного транспорта 10 секунд ! ))
+[07:12:17]  (( Полковник Martin_Milson: Внимание ! Эвакуация служебного транспорта 5 секунд ! ))
+[07:13:43]  Сержант Sombrero_Montano[480]: [Officer of CPD] Провожу 10-55, сектор: К-17. Напарники: P.Vinchester. 10-6, over-over
+[07:18:08]  Сержант Sombrero_Montano[480]: [Officer of CPD] 10-99 по 10-57, водитель желто-черного Volvo VNL 630 с номерами 1STE1598 оштра
+[07:18:08]  Кадет Antonio_Frap[479]: [Stubent of PA ] по каифу вопше спс
+[07:18:08]  Полковник Martin_Milson[346]: «Chief of Staff» Департамент, не забываем про доклады в рацию с патрулей
+[07:18:08]  Лейтенант Bon_Byason[812]: [Officer of CPD]: A-703. Продолжаем патрулировать город. Напарники: Напарники: Y.Perigosa.
+[07:18:08]  Сержант Sombrero_Montano[480]: [Officer of CPD] A-252. Патруль г. Лас Вентурас. Напарники: P.Vinchester, over..
+[07:22:03]  Кадет Antonio_Frap[479]: [Stubent of PA ] можно форму сниму на время 30 мин пж дела 
+[07:22:03]  Офицер Danny_Marquez[314]: [Officer of CPD]: 710к на додеп?
+[07:22:03]  Капитан Maksim_Gloris[564]: [Chief of PA] выезжаю в патруль
+[07:22:03]  Капитан Jo_Peretty[739]: [Dep.Chief of PA] Разрешаю
+[07:22:04]  Сержант Sombrero_Montano[480]: [Officer of CPD] A-252. Патруль г. Лас Вентурас. Напарники: P.Vinchester, over..
+[07:22:05]  (( Капитан Maksim_Gloris: :) ))
+[07:22:08]  Капитан William_Rockstar[294]: «SWAT» Добро
+[07:22:13]  Майор Vlad_Werber[288]: «Director of PSB» FBI. Отпускаю Antonio Frap в город на 20 минут без формы!
+[07:22:16]  (( Майор Vlad_Werber: ! ))
+[07:22:44]  Капитан Maksim_Gloris[564]: [Chief of PA] Департамент, минуточку внимания! Приглашаем на стажировку в отдел PA.
+[07:22:49]  Капитан Maksim_Gloris[564]: [Chief of PA] Мы занимаемся обучением и наставничеством кадетов.
+[07:23:02]  Капитан Maksim_Gloris[564]: [Chief of PA] Каждый принятый экзамен у кадета премируется.
+[07:23:07]  Капитан Maksim_Gloris[564]: [Chief of PA] Подробнее на мой пейджер - 564.
+[07:23:53]  Капитан Maksim_Gloris[564]: [Chief of PA] Патрулируем город, К-17 Лас-Вентурас Напарников нет, доступен 
+[07:24:03]  Капитан Younes_Perigosa[614]: «Inspector of PA» Провожу 10-55, сектор: М-19. Напарники: B.Byason. 10-6, over-over
+[07:24:44]  Ст.Прапорщик Vyacheslav_Schwartz[356]: [S. Agent of CSI] без протокла 694
+[07:25:03]  Vyacheslav_Schwartz взял(а) ключи от камеры. Причина: работа
+[07:25:45]  Шериф Jeremiah_Stoun[223]: [Chief of Police]: Tekeo Kaneko, явитесь на второй этаж департамента в течении 5 минут.
+[07:25:57]  Лейтенант Tekeo_Kaneko[467]: [Spec. Agent of CSI] ща буду
+[07:28:08]  Кадет Hans_Mesanyan[190]: [Student of PA] Кто в Патрул?
+[07:28:08]  Шериф Jeremiah_Stoun[223]: [Chief of Police]: Tekeo Kaneko, явитесь на второй этаж департамента в течении 5 минут.
+[07:28:17]  Капитан Younes_Perigosa[614]: «Inspector of PA» Akmal Juraev без протокола,молчун
+[07:28:40]  Younes_Perigosa взял(а) ключи от камеры. Причина: PA 
+[07:30:01]  Шериф Jeremiah_Stoun[223]: [Chief of Police]: Tekeo Kaneko получает выговор на 7 дней по факту нарушения: 1.3 ФП по жалобе.
+[07:30:08]  Лейтенант Bon_Byason[812]: [Officer of CPD]: 10-4.
+[07:31:10]  Офицер Danny_Marquez[314]: [Officer of CPD]: SOS, запрашиваю доп. юнитов в сектор Л-20. GPS: 1868.8, 726.4, 10.7
+[07:31:12]  Лейтенант Bon_Byason[812]: [Officer of CPD]: 10-4, выдвигаюсь на поддержку в сектор Л-20
+[07:31:18]  Капитан Younes_Perigosa[614]: «Inspector of PA» 10-4, выдвигаюсь на поддержку в сектор Л-20
+[07:31:46]  Сержант Sombrero_Montano[480]: [Officer of CPD] Провожу 10-55, сектор: И-13. Напарники: P.Vinchester. 10-6, over-over
+[07:32:50]  Капитан Maksim_Gloris[564]: [Chief of PA] дело 5 6 7 без протокола неадекват.
+[07:33:19]  Сержант Sombrero_Montano[480]: [Officer of CPD] 10-99 по 10-57, водитель серого Linerunner с номерами 1STE1372 оштрафован
+[07:33:53]  Сержант Sombrero_Montano[480]: [Officer of CPD] Провожу 10-55, сектор: И-15. Напарники: P.Vinchester. 10-6, over-over
+[07:39:27]  (( Шериф Jeremiah_Stoun: В департаменте объявлен розыгрыш с фондом в 75.000.000$ ))
+[07:39:28]  (( Шериф Jeremiah_Stoun: Для участия нужно всего лишь оставить свой никнейм в теме. ))
+[07:39:30]  (( Шериф Jeremiah_Stoun: Ознакомиться можете по ссылке - https://evolve-rp.su/threads/524927/ ))
+[07:40:28]  Капитан Younes_Perigosa[614]: «Inspector of PA» 10-4 порт 
+[07:41:47]  Danny_Marquez взял(а) ключи от камеры. Причина: арест
+[07:44:45]  Офицер Bobbi_Diaz[84]: [Officer of CPD]) Провожу 10-55, сектор: К-20. Напарники: I.Fisher, D.Marquez. 10-6, over-over
+[07:44:47]  Мл.Лейтенант Isaac_Fisher[292]: [Supervisor of CPD] Провожу 10-55, сектор: К-20. Напарники: B.Diaz. 10-6, over-over
+[07:45:35]  Danil_Schwartz взял(а) ключи от камеры. Причина: ворк
+[07:46:02]  Капитан William_Rockstar[633]: «SWAT» Вячеслав Шварц на каком основании ты берешь чужое ЛТС и катаешься
+[07:46:17]  (( Мл.Лейтенант Sasha_Sunside: xaxaxa ))
+[07:46:17]  Капитан Jo_Peretty[739]: [Dep.Chief of PA] Запрашиваю эвакуацию для 1го, З-14. GPS: 323.2, 1394.9, 7.7
+[07:46:26]  Капитан Deadshot_Fearful[538]: «SWAT» 10-4, выезжаю по эвакуации в З-14. РВП - 5 минут.
+[07:46:28]  Мл.Лейтенант Isaac_Fisher[292]: [Supervisor of CPD] 10-4, выезжаю по эвакуации в З-14. РВП - 5 минут.
+[07:46:34]  Капитан Deadshot_Fearful[538]: «SWAT» Заберете?
+[07:46:36]  Мл.Лейтенант Isaac_Fisher[292]: [Supervisor of CPD] Провожу 10-55, сектор: К-21. Напарники: B.Diaz. 10-6, over-over
+[07:46:49]  Капитан Deadshot_Fearful[538]: «SWAT» Еду эвакуация
+[07:47:04]  Сержант Sombrero_Montano[480]: [Officer of CPD] Провожу 10-55, сектор: Н-19. Напарники: P.Vinchester. 10-6, over-over
+[07:47:11]  Лейтенант Bon_Byason[812]: [Officer of CPD]: 10-4, выезжаю по эвакуации в З-14. РВП - 5 минут.
+[07:47:22]  Капитан Deadshot_Fearful[538]: «SWAT» я еду уже
+[07:47:30]  Прапорщик Pablo_Vinchester[503]: [Officer of CPD]: SOS, запрашиваю доп. юнитов в сектор Н-19. GPS: 1621.1, 70.7, 37.4
+[07:47:32]  Сержант Daiki_Bauer[844]: 10-4, выдвигаюсь на поддержку в сектор Н-19
+[07:47:34]  Капитан Mona_Liza[515]: «SWAT» 10-4, выдвигаюсь на поддержку в сектор Н-19
+[07:47:42]  (( Сержант Daiki_Bauer: +тэг ))
+[07:47:58]  (( Шериф Jeremiah_Stoun: /ffixcar 14 sec, займите авто. ))
+[07:48:02]  (( Шериф Jeremiah_Stoun: /ffixcar 10 sec, займите авто. ))
+[07:48:07]  (( Шериф Jeremiah_Stoun: /ffixcar 5 sec, займите авто. ))
+[07:48:08]  Капитан Deadshot_Fearful[538]: «SWAT» че там по сосу
+[07:48:37]  Кадет Luri_Bauer[376]: [Student of PA] Преследую серый Sultan без номеров
+[07:48:37]  Лейтенант Deni_Sambrero[415]: [Agent of CSI] Hans
+[07:48:38]  Кадет Luri_Bauer[376]: [Student of PA] Местоположение: Туманный Округ, Н-19. GPS: 1650.1, 106.9, 30.7
+[07:48:39]  Капитан Younes_Perigosa[614]: «Inspector of PA» 10-4, присоединяюсь к погоне за Sultan без номеров
+[07:48:42]  Капитан Deadshot_Fearful[538]: «SWAT» че там по сосу
+[07:48:43]  Капитан Deadshot_Fearful[538]: «SWAT» че там по сосу
+[07:48:46]  Лейтенант Deni_Sambrero[415]: [Agent of CSI] Hans, на связь
+[07:49:23]  Кадет Luri_Bauer[376]: [Student of PA] Отмена по погоне, скрылся..
+
+---====07:56:29====---
+
+[07:56:29]  Сержант Sombrero_Montano[480]: [Officer of CPD] Провожу 10-55, сектор: З-14. Напарники: P.Vinchester. 10-6, over-over
+[07:57:38]  Капитан William_Rockstar[633]: «SWAT» 10-99 по 10-57, водитель белого Clover без номеров задержан
+[07:58:11]  Danil_Schwartz взял(а) ключи от камеры. Причина: ворк
+[07:58:51]  Сержант Sombrero_Montano[480]: [Officer of CPD] 10-99 по 10-57, водитель серого Tanker с номерами 1STE1702 оштрафован
+[07:59:15]  Шериф Jeremiah_Stoun[223]: [Chief of Police]: На крышу +3, в порт леим.
+[07:59:20]  Мл.Лейтенант Isaac_Fisher[292]: [Supervisor of CPD] 10-99 по 10-57, водитель серого Sultan без номеров скрылся
+[07:59:44]  Шериф Jeremiah_Stoun[223]: [Chief of Police]: На крышу +3, в порт летим.
+[08:00:13]  Сержант Sombrero_Montano[480]: [Officer of CPD] 10-44 порт
+[08:00:23]  Шериф Jeremiah_Stoun[223]: [Chief of Police]: На крыше еще ждать кого?
+[08:02:25]  Кадет Luri_Bauer[579]: [Student of PA] Провожу 10-55, сектор: К-20. Напарники: D.Bauer. 10-6, over-over
+[08:02:29]  Кадет Xavier_Devilish[136]: [Student of PA] Провожу 10-55, сектор: Б-22. Напарники: W.Wilson. 10-6, over-over
+[08:02:37]  Прапорщик Micael_Marshall[481]: [Officer of CPD] Преследую желто-белый Jaguar Mk2 (Mark 2) с номерами 4JEV421
+[08:02:39]  Прапорщик Micael_Marshall[481]: [Officer of CPD] Местоположение: Туманный Округ, Н-19. GPS: 1624.3, 73.4, 37.4
+[08:02:45]  Майор Dennis_Perchinskyi[474]: «Director of O.C.O.» 10-4, присоединяюсь к погоне за Jaguar Mk2 (Mark 2) с номерами 4JEV421
+[08:03:44]  Прапорщик Micael_Marshall[481]: [Officer of CPD] 10-99 по 10-57, водитель желто-белого Jaguar Mk2 (Mark 2) с номерами 4JEV421 
+[08:03:53]  Майор Dennis_Perchinskyi[474]: «Director of O.C.O.» Преследую бело-желтый Lamborghini Huracan с номерами MRK
+[08:03:54]  Майор Dennis_Perchinskyi[474]: «Director of O.C.O.» Местоположение: Блэкфилдский перекресток, К-18. GPS: 1425.0, 833.2, 6.5
+[08:03:56]  Лейтенант Bon_Byason[812]: [Officer of CPD]: 10-4, присоединяюсь к погоне за Lamborghini Huracan с номерами MRK
+[08:04:01]  Капитан Jo_Peretty[381]: [Dep.Chief of PA] 10-4, присоединяюсь к погоне за Lamborghini Huracan с номерами MRK
+[08:04:08]  Sasha_Sunside взял(а) ключи от камеры. Причина: Работа
+[08:04:08]  Кадет Xavier_Devilish[136]: [Student of PA] 10-4, присоединяюсь к погоне за Lamborghini Huracan с номерами MRK
+[08:04:13]  (( Кадет Xavier_Devilish: ! ))
+[08:04:13]  Прапорщик Pablo_Vinchester[503]: [Officer of CPD]: Вылетаем в порт, желающии на крышу 2 места свободных
+[08:04:18]  Майор Dennis_Perchinskyi[474]: «Director of O.C.O.» Преследую бело-желтый Lamborghini Huracan с номерами MRK
+[08:04:20]  Майор Dennis_Perchinskyi[474]: «Director of O.C.O.» Местоположение: Южная автострада имени Юлиуса, К-18. GPS: 1482.4, 827.3, 6
+[08:04:38]  Прапорщик Pablo_Vinchester[503]: [Officer of CPD]: Вылетаем в порт, желающии на крышу 2 места свободных, есть кто в пути?
+[08:06:05]  Прапорщик Pablo_Vinchester[503]: [Officer of CPD]: Вылетел в порт, напарник Sombrero_Montano
+[08:06:48]  Шериф Jeremiah_Stoun[223]: [Chief of Police]: На крышу +3, порт.
+[08:06:50]  (( Шериф Jeremiah_Stoun: /ffixcar 14 sec, займите авто. ))
+[08:06:52]  Лейтенант Bon_Byason[812]: [Officer of CPD]: Дело 340 без протокола, неадекват
+[08:06:54]  (( Шериф Jeremiah_Stoun: /ffixcar 10 sec, займите авто. ))
+[08:06:59]  (( Шериф Jeremiah_Stoun: /ffixcar 5 sec, займите авто. ))
+[08:07:12]  Bon_Byason взял(а) ключи от камеры. Причина: cpd
+
+---====18:12:05====---
+
+[18:12:05]  Полковник Martin_Milson[848]: «Chief of Staff» Кадеты, если делать нечего, можете выехать по городу с докладами
+[18:12:12]  Полковник Martin_Milson[848]: «Chief of Staff» Но ничего не предпринимать
+[18:12:19]  Полковник Martin_Milson[848]: «Chief of Staff» Вызывать подкрепление в случае чего
+[18:12:30]  Прапорщик Micael_Marshall[481]: [Officer of CPD] Преследую красно-зеленый NRG-500 с номерами KANEKO
+[18:12:31]  Прапорщик Micael_Marshall[481]: [Officer of CPD] Местоположение: Туманный Округ, Н-19. GPS: 1624.0, 92.4, 36.9
+[18:12:34]  Офицер Harry_Heydrich[17]: [Officer of CPD] 10-4, присоединяюсь к погоне за NRG-500 с номерами KANEKO
+[18:12:36]  Капитан Deadshot_Fearful[574]: «SWAT» 10-4, присоединяюсь к погоне за NRG-500 с номерами KANEKO
+[18:12:49]  Кадет Xavier_Devilish[430]: [Student of PA] А можно с кем-то в патруль? Если есть свободные места в авто
+[18:13:03]  Капитан Deadshot_Fearful[574]: «SWAT» координация
+[18:13:04]  Капитан Deadshot_Fearful[574]: «SWAT» координация по нрг
+[18:13:07]  Полковник Martin_Milson[848]: «Chief of Staff» СPD, возьмите кадета
+[18:13:13]  Капитан Deadshot_Fearful[574]: «SWAT» координация по нрг ну где 
+[18:13:22]  Капитан Deadshot_Fearful[574]: «SWAT» Micael Marshall
+[18:13:25]  Капитан Deadshot_Fearful[574]: «SWAT» Micael Marshall координируйте
+[18:13:46]  Капитан Deadshot_Fearful[574]: «SWAT» Micael Marshall координируйте
+[18:14:00]  Прапорщик Micael_Marshall[481]: [Officer of CPD] я на мосту
+[18:14:04]  Капитан Deadshot_Fearful[574]: «SWAT» Micael Marshall ну че вы молчите
+[18:14:06]  Капитан Deadshot_Fearful[574]: «SWAT» Где нрг
+[18:14:11]  Капитан Deadshot_Fearful[574]: «SWAT» Мда
+[18:14:28]  Офицер Harry_Heydrich[17]: [Officer of CPD] Делай доклад о 10-55
+[18:15:04]  Прапорщик Micael_Marshall[481]: [Officer of CPD] 10-99 по 10-57, водитель красно-зеленого NRG-500 с номерами KANEKO оштрафован
+[18:15:22]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:15:31]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:16:04]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:16:29]  (( Полковник Martin_Milson: Алишер в розыск не можешь объявлять пока кадет ! ))
+[18:16:38]  (( Полковник Martin_Milson: И статью названиями пиши а не цифрами  ))
+[18:16:42]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:16:45]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:16:53]  Прапорщик Micael_Marshall[481]: [Officer of CPD] 10-99 по 10-57, водитель черного Sultan с номерами M14FR728 задержан
+[18:16:58]  (( Капитан Deadshot_Fearful: ахахах ))
+[18:17:10]  (( Полковник Martin_Milson: Алишер ёпт ))
+[18:17:16]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:17:19]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:17:22]  (( Офицер Harry_Heydrich: ща 6 звезд даст по причине 1 ))
+[18:17:44]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:17:56]  Полковник Martin_Milson[848]: «Chief of Staff» Требуется еще хотя бы 5
+[18:18:10]  Прапорщик Jonathan_Cooper[862]: «Inspector of PA» минуту сейчас буду
+[18:18:41]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:19:09]  Полковник Martin_Milson[848]: «Chief of Staff» Кадеты, в строй
+[18:19:37]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:20:23]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:20:34]  Полковник Martin_Milson[848]: «Chief of Staff» Ну давайте же
+[18:21:09]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:21:37]  Полковник Martin_Milson[848]: «Chief of Staff» Еще пару человек надо 
+[18:21:44]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:22:02]  Полковник Martin_Milson[848]: «Chief of Staff» Еще 1 человек на тренировку
+[18:22:20]  Полковник Martin_Milson[848]: «Chief of Staff» Идёт кто ?
+[18:22:56]  Nova_Schwartz взял(а) ключи от камеры. Причина: ворк
+[18:23:13]  Капитан Nova_Schwartz[671]: «Dep.Head CSI» 10-99 по 10-57, водитель черно-серого Mercedes CLS63 AMG w219 без номеров задержан
+[18:23:35]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:23:58]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:24:19]  (( Полковник Martin_Milson: Что за полупокеры ))
+[18:24:26]  (( Ст.Прапорщик Isaac_Roberto: посадили? ))
+[18:24:47]  (( Кадет Xavier_Devilish: та это подручные дузи у них днк тут где то стоит ))
+[18:25:00]  (( Сержант Daiki_Bauer: так а зач вы их гасите ))
+[18:25:03]  (( Сержант Daiki_Bauer: тазерите ))
+[18:25:10]  (( Полковник Martin_Milson: Розыск вообще должно дать ))
+[18:25:15]  Полковник Martin_Milson[848]: «Chief of Staff» Департамент, общее построение в подземной парковке. Тренировка с фондом
+[18:25:24]  (( Офицер Harry_Heydrich: нас же сильно больше ))
+[18:25:25]  (( Сержант Daiki_Bauer: так у них маски, там система с каким то мелким шансом выдаёт ))
+[18:25:27]  Полковник Martin_Milson[848]: «Chief of Staff» 2 человека еще в строй
+[18:26:02]  Полковник Martin_Milson[848]: «Chief of Staff» 2 человека еще в строй
+[18:26:08]  (( Кадет Xavier_Devilish: та они ключи нафармить хотели ))
+[18:27:35]  (( Офицер Dmytro_Lemekha: Маски юзать? ))
+[18:27:38]  (( Полковник Martin_Milson: - ))
+[18:28:46]  Полковник Martin_Milson[848]: «Chief of Staff» Выходим, cтроимся
+[18:28:54]  Полковник Martin_Milson[848]: «Chief of Staff» Выходим, cтроимся
+[18:29:20]  Капитан Nova_Schwartz[208]: «Dep.Head CSI» Провожу 10-55, сектор: В-21. Напарники: D.Schwartz, V.Schwartz. 10-6, over-over
+[18:30:52]  Капитан Nova_Schwartz[208]: «Dep.Head CSI» 10-99 по 10-57, водитель черного Mercedes-Benz E63 AMG w212 с номерами 142 оштрафов
+[18:32:25]  Полковник Martin_Milson[848]: «Chief of Staff» Cаша 32
+[18:32:39]  Капитан Nova_Schwartz[208]: «Dep.Head CSI» SOS, запрашиваю доп. юнитов в сектор Л-20. GPS: 1780.2, 662.3, 17.8
+[18:33:01]  Полковник Martin_Milson[848]: «Chief of Staff» Командиры доложите о готовности
+[18:33:10]  Офицер Dmytro_Lemekha[133]: [Officer Of CPD] Готов
+[18:33:19]  Полковник Martin_Milson[848]: «Chief of Staff» Возвышенности и крыши запрещены, обезбол и тд тоже
+[18:33:25]  Полковник Martin_Milson[848]: «Chief of Staff» Черные готовы ?
+[18:33:57]  Полковник Martin_Milson[848]: «Chief of Staff» Черные готовы ?
+[18:34:07]  Мл.Лейтенант Sasha_Sunside[19]: «Agent of CSI»: ready
+[18:34:12]  Полковник Martin_Milson[848]: «Chief of Staff» Начали тренировку !
+[18:34:14]  Полковник Martin_Milson[848]: «Chief of Staff» Начали тренировку !
+[18:34:30]  Полковник Martin_Milson[848]: «Chief of Staff» Возвышенности и крыши запрещены, обезбол и тд тоже
+[18:34:54]  Лейтенант Danil_Schwartz[488]: Head of CSI | SOS, запрашиваю доп. юнитов в сектор Л-14. GPS: 271.4, 743.5, 6.1
+[18:35:02]  Полковник Martin_Milson[848]: «Chief of Staff» 15 нейтрал
+[18:35:35]  Полковник Martin_Milson[848]: «Chief of Staff» Розовые победили
+[18:35:44]  (( Капитан Nova_Schwartz: на мосту стреоляют ))
+[18:36:38]  Капитан Nova_Schwartz[208]: «Dep.Head CSI» Запрашиваю эвакуацию для 1го, Л-14. GPS: 280.1, 745.3, 5.9
+[18:36:41]  Лейтенант Danil_Schwartz[488]: Head of CSI | 10-4, выезжаю по эвакуации в Л-14. РВП - 5 минут.
+[18:40:04]  Полковник Martin_Milson[848]: «Chief of Staff» Первёл всем выигрышь
+[18:40:17]  Полковник Martin_Milson[848]: «Chief of Staff» МО ЛВ пробуем формы перехватит
+[18:40:23]  Полковник Martin_Milson[848]: «Chief of Staff» В сторону LVA скорее всего
+[18:40:29]  (( Полковник Martin_Milson: Перехватить * ))
+[18:41:22]  Полковник Martin_Milson[848]: «Chief of Staff» Cырьё
+[18:41:28]  (( Мл.Лейтенант Sasha_Sunside: ffix ))
+[18:42:12]  (( Полковник Martin_Milson: Внимание ! Эвакуация служебного транспорта 15 секунд ! ))
+[18:42:12]  (( Полковник Martin_Milson: Внимание ! Эвакуация служебного транспорта 10 секунд ! ))
+[18:42:12]  (( Полковник Martin_Milson: Внимание ! Эвакуация служебного транспорта 5 секунд ! ))
+[18:42:12]  Кадет Xavier_Devilish[430]: [Student of PA] С кем-то выехать можно на помощь или патруль?
+[18:42:12]  Офицер Dmytro_Lemekha[133]: [Officer Of CPD] Патруль Лас-Вентураса. Рока Эскаланте. Напарники: A.Skrypnyk 
+[18:42:12]  (( Сержант Daiki_Bauer: v garaj idi ))
+[18:43:12]  (( Кадет Xavier_Devilish: tyt ))
+[18:43:12]  Офицер Dmytro_Lemekha[133]: [Officer Of CPD] Провожу 10-55, сектор: К-21. Напарники: A.Skrypnyk, S.Cabrero. 10-6, over-over
+[18:43:49]  Кадет Xavier_Devilish[430]: [Student of PA] Патруль Лас-Вентураса. Центральное Шоссе. Напарники: D.Bauer, L.Bauer.
+
+---====18:57:38====---
+
+[18:57:38]  Капитан Nova_Schwartz[334]: «Dep.Head CSI» Провожу 10-55, сектор: Т-18. Напарники: D.Schwartz. 10-6, over-over
+[19:01:56]  (( Сержант Hans_Ehrenreich: Бож ПГ ))
+[19:02:01]  Danil_Schwartz взял(а) ключи от камеры. Причина: работа
+[19:02:37]  Dmytro_Lemekha взял(а) ключи от камеры. Причина: 1
+[19:06:26]  Nova_Schwartz взял(а) ключи от камеры. Причина: ворк
+[19:36:06]  Лейтенант Deni_Sambrero[122]: [Agent of CSI] Генерал Ханс, на связь
+[19:36:06]  Лейтенант Deni_Sambrero[122]: [Agent of CSI] Генерал Ханс, на связь
+[19:36:06]  Сержант Hans_Ehrenreich[360]: [Agent of CSI] я в депе
+[19:36:06]  Кадет Oda_Fudjimoto[482]: Student of PA: Проверка рации
+[19:36:06]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: Отлично слышно
+[19:36:06]  Полковник Martin_Milson[848]: «Chief of Staff» Доклады в рацию не забываем с патрулей, кто на работе
+[19:36:06]  Полковник Martin_Milson[848]: «Chief of Staff» Помните что вызовы - обязательны, для всех
+[19:36:06]  Полковник Martin_Milson[848]: «Chief of Staff» Если принять не можете 10-8 - причина
+[19:36:06]  Кадет Xavier_Devilish[95]: [Student of PA] Возьмёт кто в патруль с собой?
+[19:36:06]  Полковник Martin_Milson[848]: «Chief of Staff» Кадеты берем в патруль кто-то
+[19:36:06]  (( Полковник Martin_Milson: Кадета * ))
+[19:36:06]  Полковник Martin_Milson[848]: «Chief of Staff» Ray Heartless, чем занят 
+[19:36:06]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: Смотрю в небо
+[19:36:06]  Полковник Martin_Milson[848]: «Chief of Staff» Кадета бери с собой в патруль
+[19:36:06]  Кадет Oda_Fudjimoto[482]: Student of PA: Из инструкторов PA есть кто на работе?
+[19:36:06]  Полковник Martin_Milson[848]: «Chief of Staff» Обученный
+[19:36:07]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: Это дело не моего отдела
+[19:36:07]  Полковник Martin_Milson[848]: «Chief of Staff» Без разницы
+[19:36:07]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: Ну да ладно. Где он?
+[19:36:07]  Полковник Martin_Milson[848]: «Chief of Staff» В холле
+[19:36:07]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: В гараже жду
+[19:36:07]  Кадет Xavier_Devilish[95]: [Student of PA] Я в гараже
+[19:36:07]  Полковник Martin_Milson[848]: «Chief of Staff» Это обученные кадеты
+[19:36:07]  Капитан Loonklage_Revolution[318]: «Officer of CPD» Заберите бомжика из зоны отдыха
+[19:36:07]  Капитан Loonklage_Revolution[318]: «Officer of CPD» Умоляю
+[19:36:07]  Полковник Martin_Milson[848]: «Chief of Staff» И доклады не забывайте
+[19:36:07]  Офицер Harry_Heydrich[34]: [Officer of CPD] L-726, 10-20 В-21, Казино Изумрудный Остров.
+[19:36:07]  Офицер Harry_Heydrich[34]: [Officer of CPD] A-726, 10-20 В-21, Казино Изумрудный Остров. Напарники: X.Devilish, R.Heartless. 
+[19:36:07]  Лейтенант Deni_Sambrero[122]: [Agent of CSI] Куда за тобой
+[19:36:07]  Сержант Hans_Ehrenreich[360]: [Agent of CSI] А-67, жоский патруль города Las-Venturas. Напарники: Ода, Дени
+[19:36:07]  Полковник Martin_Milson[848]: «Chief of Staff» LVA проверяйте переодически
+[19:36:07]  Полковник Martin_Milson[848]: «Chief of Staff» Кто в патруле
+[19:36:07]  Офицер Harry_Heydrich[34]: [Officer of CPD] 10-4
+[19:36:07]  Кадет Xavier_Devilish[95]: [Student of PA] Патруль Лас-Вентураса. Малхолландский перекресток. Напарники: R.Heartless, H.Heydri
+[19:36:07]  Лейтенант Steven_Seagal[249]: [Officer of CPD] A-253. Патруль Центральное Шоссе. Д-21,Напарников нет, over.
+[19:36:07]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: Провожу 10-55, сектор: Р-19. Напарники: H.Heydrich, X.Devilish. 10-6, over-
+[19:36:07]  Офицер Harry_Heydrich[34]: [Officer of CPD] Преследую синий Sultan без номеров
+[19:36:07]  Офицер Harry_Heydrich[34]: [Officer of CPD] Местоположение: Малхолланд, П-19. GPS: 1612.3, -320.5, 18.4
+[19:36:07]  Сержант Hans_Ehrenreich[360]: [Agent of CSI] Протокол на имя Alisa Filipchik не составлен, ООП
+[19:36:07]  Лейтенант Steven_Seagal[249]: [Officer of CPD] 10-4, присоединяюсь к погоне за Sultan без номеров
+[19:36:07]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: Вайнвуд
+[19:36:07]  Полковник Martin_Milson[848]: «Chief of Staff» На ООП всё равно составляется протокол
+[19:36:07]  Сержант Hans_Ehrenreich[360]: [Agent of CSI] С каких пор
+[19:36:07]  Кадет Oda_Fudjimoto[482]: Student of PA: Залет
+[19:36:07]  Полковник Martin_Milson[848]: «Chief of Staff» Протокол не составляется если молчун или неадекват
+[19:36:07]  Офицер Danny_Marquez[799]: [Officer of CPD]: Всегда составлялся
+[19:36:07]  Офицер Harry_Heydrich[34]: [Officer of CPD] Преследую синий Sultan без номеров
+[19:36:07]  Офицер Harry_Heydrich[34]: [Officer of CPD] Местоположение: Темпл Драйв, С-18. GPS: 1376.3, -972.5, 32.8
+[19:36:07]  Сержант Hans_Ehrenreich[360]: [Agent of CSI] Ну так на ООП тоже не составляется же
+[19:36:07]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: 10-4, присоединяюсь к погоне за Sultan без номеров
+[19:36:07]  Кадет Xavier_Devilish[95]: [Student of PA] 10-4, присоединяюсь к погоне за Sultan без номеров
+[19:36:07]  Офицер Danny_Marquez[799]: [Officer of CPD]: Молчун и неадекват как Милсон сказал
+[19:36:07]  Полковник Martin_Milson[848]: «Chief of Staff» Составляется
+[19:36:07]  Офицер Danny_Marquez[799]: [Officer of CPD]: Только в двух случаях без протокола
+[19:36:07]  Офицер Danny_Marquez[799]: [Officer of CPD]: Третий нигде не прописан
+[19:36:07]  Лейтенант Deni_Sambrero[122]: [Agent of CSI] 10-99 по 10-57, водитель красного ВАЗ 2106 без номеров задержан
+[19:36:07]  (( Ст.Прапорщик Ray_Heartless: киньте финд на 307 и скажите квадрат ))
+[19:36:07]  Сержант Hans_Ehrenreich[360]: [Agent of CSI] Провожу 10-55, сектор: З-20. Напарники: D.Sambrero. 10-6, over-over
+[19:36:07]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: SOS, запрашиваю доп. юнитов в сектор Н-19. GPS: 1616.7, 60.7, 37.3
+[19:36:07]  Лейтенант Steven_Seagal[249]: [Officer of CPD] 10-4, выдвигаюсь на поддержку в сектор Н-19
+[19:36:07]  Офицер Harry_Heydrich[34]: [Officer of CPD] 10-4, выдвигаюсь на поддержку в сектор Н-19
+[19:36:07]  (( Кадет Xavier_Devilish: Вы посадили преступника на 2400 секунд! ))
+[19:36:07]  (( Ст.Прапорщик Ray_Heartless: жду в пп ))
+[19:36:07]  (( Ст.Прапорщик Ray_Heartless: тебя убили? ))
+[19:36:07]  Офицер Harry_Heydrich[34]: [Officer of CPD] L-699, 10-20 К-21, Центральное Шоссе.
+[19:36:07]  Офицер Harry_Heydrich[34]: [Officer of CPD] A-699, 10-20 К-21, Южная автострада имени Юлиуса. Напарники: R.Heartless, X.Devili
+[19:36:07]  (( Кадет Oda_Fudjimoto: какой ваще клист у Инструкторов ПА ))
+[19:36:07]  Капитан Baki_Bakevich[152]: [Instructor of PA] 10-4
+[19:36:07]  (( Капитан Baki_Bakevich: я инструктор ))
+[19:36:07]  Офицер Dmytro_Lemekha[133]: [Officer Of CPD] Патруль Лас-Вентураса. Рока Эскаланте. Напарники: A.Skrypnyk 
+[19:36:07]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: SOS, запрашиваю доп. юнитов в сектор Н-19. GPS: 1606.9, 79.3, 37.6
+[19:36:07]  Лейтенант Steven_Seagal[249]: [Officer of CPD] 10-4, выдвигаюсь на поддержку в сектор Н-19
+[19:36:07]  Кадет Oda_Fudjimoto[101]: Student of PA: Капитан Баки, примите что нибудь из ряда экзаменов?
+[19:36:07]  Капитан Baki_Bakevich[152]: [Instructor of PA] 10-4, выдвигаюсь на поддержку в сектор Н-19
+[19:36:07]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: Быстрее
+[19:36:07]  Капитан Baki_Bakevich[152]: [Instructor of PA] Канеш
+[19:36:07]  (( Ст.Прапорщик Ray_Heartless: ffix ))
+[19:36:07]  Офицер Dmytro_Lemekha[133]: [Officer Of CPD] Патруль Лас-Вентураса. Центральное Шоссе. Напарники: A.Skrypnyk 
+[19:36:07]  (( Капитан Baki_Bakevich: Вы посадили преступника на 600 секунд! ))
+[19:36:07]  Penelope_Deladraze[52] потерпел неудачу в расследовании и не смог найти преступника
+[19:36:07]  (( Капитан Baki_Bakevich: только одного ))
+[19:36:07]  Капитан Baki_Bakevich[152]: [Instructor of PA] Где кадет
+[19:36:07]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: 10-4
+[19:36:07]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: У меня на коленях
+[19:36:07]  Кадет Oda_Fudjimoto[101]: Student of PA: 2 этаж Лекторная
+[19:36:08]  Кадет Xavier_Devilish[95]: [Student of PA] Патруль Лас-Вентураса. Пустынный Округ. Напарники: R.Heartless.
+[19:36:08]  Офицер Dmytro_Lemekha[133]: [Officer Of CPD] Патруль Лас-Вентураса. Казино Четыре Дракона. Напарники: A.Skrypnyk, D.Lemekha 
+[19:36:08]  Сержант Hans_Ehrenreich[360]: [Agent of CSI] Miden где ты есть
+[19:36:08]  (( Капитан Nova_Schwartz: он в дмг ))
+[19:36:08]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: SOS, запрашиваю доп. юнитов в сектор И-12. GPS: -179.6, 1194.8, 19.5
+[19:36:08]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: SOS, запрашиваю доп. юнитов в сектор И-12. GPS: -89.3, 1204.7, 19.6
+[19:36:08]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: Преследую кремовый Barracks с номерами A19FR225
+[19:36:08]  Ст.Прапорщик Ray_Heartless[441]: [Officer of CPD]: Местоположение: Форт Карсон, И-13. GPS: 4.1, 1198.4, 19.6
+[19:36:11]  Офицер Dmytro_Lemekha[133]: [Officer Of CPD] 10-4, выдвигаюсь на поддержку в сектор И-12
+[19:36:13]  Офицер Dmytro_Lemekha[133]: [Officer Of CPD] 10-4, выдвигаюсь на поддержку в сектор И-12
+[19:36:14]  Офицер Dmytro_Lemekha[133]: [Officer Of CPD] 10-4, присоединяюсь к погоне за Barracks с номерами A19FR225

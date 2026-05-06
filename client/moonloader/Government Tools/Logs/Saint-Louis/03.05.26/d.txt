@@ -1,0 +1,134 @@
+
+---====16:05:11====---
+
+[16:05:11]  [Army SF] Полковник Sebastian_Pierini: OG, Занял гос.волну.
+[16:05:31]  [Army SF] Полковник Sebastian_Pierini: OG, Освободил гос.волну
+[16:05:48]  [Police LS] Ст.Лейтенант Ernesto_Castilia: HRT, code 0, channel 392
+[16:06:24]  [Police LS] Ст.Прапорщик Christian_Shirtziger: Army, был ограблен магазин одежды LS. Укрепите ваши посты
+[16:09:56]  [Police LS] Шериф Shwabbeazzy_Shteger: AF, желающие принять участие в КБ - езжайте в Б-7.
+[16:10:14]  [Medic] Хирург Andriy_Pastor: OG, Вещаю, просьба не перебивать
+[16:10:23]  [Army SF] Полковник Sebastian_Pierini: SAPD and MOH Сотрудника на помощь на призыве, спасибо!
+[16:10:41]  [Police SF] Ст.Прапорщик Sasha_Sunside: lspd, 10-4
+[16:10:51]  [Army SF] Лейтенант Ludwig_Stauffenberg: AF, «Победишь страх — победишь смерть»: оформи перевод и стань частью Кораблика №69.
+[16:14:06]  [Police LS] Подполковник Frosty_Rodriguez: AF, открыт перевод в LSPD с звания Мл.Сержант. Подробнее на п.976
+[16:14:27]  [Police LS] Прапорщик Free_Waychao: Gov, дело Skaloshad Yadzuma рассмотрению не подлежит, ООП
+[16:15:04]  [Army SF] Полковник Sebastian_Pierini: OG, занял гос.волну.
+[16:15:24]  [Army SF] Полковник Sebastian_Pierini: OG, освободил гос.волну.
+[16:16:10]  [FBI] Дежурный Domenic_Wright: SFPD, у вас у аммо активное действие.
+[16:16:25]  [Army SF] Генерал Wolfgang_Richards: AF, доступны переводы в San Fierro Army. Подробнее по pgr.581
+[16:16:39]  [Army SF] Ст.Лейтенант Goga_Szoboszlai: LVa, заехали на ваши пески, белый маячок.
+[16:17:34]  [Police LS] Шериф Shwabbeazzy_Shteger: AF, кто еще едет в Б-7 на тренировку? Пдж. 441.
+[16:18:31]  [Police LS] Шериф Shwabbeazzy_Shteger: AF, кто отписался, ожидаем 5 минут и начинаем.
+[16:18:56]  [Police LS] Ст.Лейтенант Ernesto_Castilia: HRT, code 0, channel 392
+[16:19:32]  [Police LS] Ст.Лейтенант Ernesto_Castilia: HRT, code 1, К-16, ETA: 6 min, channel 392
+[16:20:15]  [Police LS] Прапорщик Free_Waychao: Gov, дело Elvin Nilsson рассмотрению не подлежит, ООП
+[16:20:59]  [Medic] Хирург Andriy_Pastor: OG, Вещаю, просьба не перебивать
+[16:21:08]  [Army SF] Капитан Tony_Galliani: AF, требуется поддержка в порт ЛС! Крупное нападение!
+[16:21:50]  [Army SF] Капитан Hugo_Escobar: SAPD Порт ЧС
+[16:24:37]  [Army SF] Капитан Hugo_Escobar: SAPD Порт ЧС повторяю!!
+[16:24:55]  [Police SF] Сержант Serega_Sed: AF, 10-57, серо-белый автомобиль с номерами 1STE1488, GPS: -2440.0, -2088.7, 125.7
+[16:25:07]  [Police SF] Мл.Лейтенант Pavel_Burov: SFa 10-4. Выдвинулся
+[16:25:22]  [Army SF] Полковник Sebastian_Pierini: OG, освободил гос.волну.
+[16:25:42]  [Army SF] Капитан Tony_Galliani: AF, всё ещё требуется поддержка в порт ЛС!
+[16:26:33]  [Police LS] Шериф Shwabbeazzy_Shteger: [T] На исходную
+[16:27:42]  [Police LV] Ст.Лейтенант Evan_Dozer: lspd, пересекаю вашу юрисдикцию, договор.
+[16:27:53]  [Police LS] Шериф Shwabbeazzy_Shteger: [T] Готовность на 441.
+[16:28:31]  [Police LS] Шериф Shwabbeazzy_Shteger: [T] Правила стандарт. Без крыши, магии и нарк.веществ с обезболом. Начали.
+[16:28:54]  [Police LV] Шериф Jeremiah_Stoun: Army, был ограблен магазин одежды LV. Укрепите ваши посты
+[16:30:30]  [Medic] Хирург Andriy_Pastor: OG, Вещаю, просьба не перебивать
+[16:30:45]  [Medic] Хирург Andriy_Pastor: Освободил Государственную волну
+[16:30:56]  [Police LS] Ст.Лейтенант Ernesto_Castilia: AF, открыты заявления в FBI HRT, подробнее в разделе FBI на оф.портале.
+[16:31:23]  [Police LS] Шериф Shwabbeazzy_Shteger: [T] Желтые стройтесь
+[16:33:47]  [Police LS] Лейтенант Rony_Eclipse: Gov, дело Leon Guerra рассмотрению не подлежит, ООП
+[16:34:54]  [Army SF] Полковник Sebastian_Pierini: OG, занял гос.волну.
+[16:35:14]  [Army SF] Полковник Sebastian_Pierini: OG, освободил гос.волну.
+[16:35:24]  [Army LV] Подполковник Nikita_Fiesta: SFA,возобновите поставки,заранее благодарю
+[16:35:47]  [Police LS] Лейтенант Rony_Eclipse: Gov, дело Sanechek Gamarjous рассмотрению не подлежит, ООП
+[16:35:59]  [GOV] Губернатор Nikos_Quarless: OG, На офф.портале Правительства открыты заявки в Прокуратуру Штата.
+[16:36:53]  [Police LS] Лейтенант Azari_Kurzawa: Army, был ограблен магазин одежды LS. Укрепите ваши посты
+[16:38:19]  [Police LS] Капитан Hondo_Harlson: AF, 10-57, зелено-серый автомобиль без номеров, GPS: -104.0, -975.5, 24.8
+[16:38:51]  [Police LS] Капитан Hondo_Harlson: AF, 10-57, зелено-серый автомобиль без номеров, GPS: -291.8, 34.5, 1.7
+[16:39:11]  [Army SF] Полковник Sebastian_Pierini: LVA К вам формы едут через нефтебазу встречайте
+[16:39:25]  [Police LS] Капитан Hondo_Harlson: AF, 10-57, зелено-серый автомобиль без номеров, GPS: -253.8, 586.3, 14.0
+[16:39:35]  [Police LV] Полковник Martin_Milson: OG, начал вещание
+[16:39:45]  [Police LS] Капитан Hondo_Harlson: AF, 10-57, пешая погоня, нужны доп.юниты, GPS: 66.3, 645.9, 6.3
+[16:40:18]  [Police LV] Полковник Martin_Milson: OG, закончил вещание.
+[16:40:37]  [Police SF] Прапорщик Cram_Hudson: Army, был ограблен магазин одежды SF. Укрепите ваши посты
+[16:41:11]  [Army SF] Ст.Лейтенант Goga_Szoboszlai: LVa, заехали на ваши пески, белые маячки.
+[16:41:35]  [Police LS] Капитан Hondo_Harlson: LVa, В вашу сторону могут ехать две формы на черном султане, будьте аккуратны
+[16:42:05]  [Police SF] Офицер Maks_Laurence: LSPD, перескаю вашу юрисдикцию, патруль
+[16:42:38]  [Police LS] Лейтенант Azari_Kurzawa: Gov, дело Leon Guerra рассмотрению не подлежит, ООП
+[16:43:35]  [Police SF] Майор Liviano_Ruthless: AF, открыт перевод в sfpd со звания Мл.Сержант, подробнее на pgr.458.
+[16:45:58]  [Police SF] Майор Liviano_Ruthless: og, занял гос.волну, просьба не перебивать.
+[16:46:25]  [Police SF] Майор Liviano_Ruthless: og, волна свободна, благодарю.
+[16:47:32]  [Police LS] Мл.Лейтенант Joshuaz_Wright: lva, пролетаю над вами, светло-розовый маячок
+[16:52:15]  [Police LV] Полковник Martin_Milson: OG, начал вещание
+[16:52:15]  [Police LV] Ст.Лейтенант Chaze_Matterazi: Medic, наркологи отпишите на пдж.380
+[16:52:15]  [Police LV] Полковник Martin_Milson: OG, закончил вещание.
+[16:52:15]  [FBI] Дежурный Domenic_Wright: SFPD, будьте на готове, может к вам поедут после АММО LS.
+[16:52:15]  [Police SF] Лейтенант Alexei_Douglas: fbi, спасибо за информацию мы в ожиданиях.
+
+---====20:07:00====---
+
+[20:07:00]  [Medic] Зам.Глав.Врача Misu_Kurokawa: GOV, Уполномоченные выдавать лицензии в штате? Ответ на 378 канал.
+[20:07:13]  [Police LS] Капитан Melvin_Garret: Gov, дело Leon Guerra рассмотрению не подлежит, ООП
+[20:11:22]  [Police SF] Капитан Sereja_Sheppard: AF, открыты заявления в FBI HRT, подробнее в разделе FBI на оф.портале.
+[20:11:38]  [Police SF] Капитан Sereja_Sheppard: HRT, code 0, channel 295
+[20:11:50]  [Medic] Зам.Глав.Врача Misu_Kurokawa: OG, вещаю по волне государственных новостей, убедительная просьба не перебивать.
+[20:12:08]  [Medic] Зам.Глав.Врача Misu_Kurokawa: OG, не вещаю.
+[20:22:59]  [Police LV] Сержант Daiki_Bauer: Army, был ограблен магазин одежды LV. Укрепите ваши посты
+[20:26:09]  [Police SF] Лейтенант Alexei_Douglas: AF, открыт перевод в sfpd со звания Мл.Сержант, подробнее на pgr. 323.
+[20:26:09]  [Army LV] Ст.Сержант Ryuki_Masuda: to AF, Срочно требуется подкрепление в порт ЛС !
+[20:26:10]  [Police SF] Капитан Sereja_Sheppard: HRT, code 0, channel 241
+[20:30:03]  [Medic] Зам.Глав.Врача Misu_Kurokawa: OG, вещаю по волне государственных новостей, убедительная просьба не перебивать.
+[20:30:19]  [Police LV] Ст.Прапорщик Donald_Carington: Gov, дело Cypress Hill рассмотрению не подлежит, ООП
+[20:30:44]  [Army LV] Ст.Сержант Ryuki_Masuda: to AF, срочно требуется подкрепление в порт ЛС !
+[20:33:01]  [Police LS] Капитан Melvin_Garret: Gov, дело Timur Kaygulo рассмотрению не подлежит, ООП
+[20:34:45]  [Police LV] Ст.Прапорщик Ethan_Black: AF: Открыты переводы в LVPD со звания Мл.Сержант! Обращатся на pgr. 578
+[20:34:56]  [Police SF] Подполковник Maxim_Dorfman: MOH, в секторе Ф-14 много жмуров
+
+---====20:49:56====---
+
+[20:49:56]  [Police LS] Шериф Shwabbeazzy_Shteger: sfpd, миссис Келли, можете заехать ко мне в квартирку? Там тоже нападение будет
+[20:50:30]  [Police SF] Лейтенант Alexei_Douglas: LVa, Пополнимся у вас запасами.
+[20:51:12]  [Police LV] Полковник Martin_Milson: OG, начал вещание.
+[20:51:55]  [Police LV] Полковник Martin_Milson: OG, закончил вещание.
+[20:52:02]  [Police SF] Ст.Прапорщик Sasha_Sunside: lvpd, пополнимся у вас?
+[20:52:11]  [Police LV] Полковник Martin_Milson: SFPD, не спрашивайте, просто доложите
+[20:55:03]  [Police SF] Майор Misha_Sakharov: OG, Занимаю гос.волну, просьба не перебивать
+[20:55:25]  [Police SF] Майор Misha_Sakharov: Освободил Государственную волну
+[20:56:02]  [Police SF] Ст.Лейтенант Jack_DeSanta: lspd, шериф штегер доложите количество выпитого алкоголя по каналу 86
+[20:57:55]  [Police LV] Ст.Прапорщик Donald_Carington: Gov, дело Markus Pepes рассмотрению не подлежит, ООП
+[21:00:04]  [Police LV] Полковник Martin_Milson: OG, начал вещание.
+[21:00:36]  [Police LV] Полковник Martin_Milson: OG, закончил вещание.
+[21:05:03]  [Police SF] Майор Misha_Sakharov: OG, Занимаю гос.волну, просьба не перебивать
+[21:05:25]  [Police SF] Майор Misha_Sakharov: Освободил Государственную волну
+[21:08:29]  [Police LV] Ст.Прапорщик Donald_Carington: Army, был ограблен магазин одежды LV. Укрепите ваши посты
+[21:09:29]  [Police LV] Полковник Martin_Milson: OG, начал вещание.
+[21:09:54]  [Police LS] Ст.Прапорщик Yanix_Sauceda: Gov, дело Hunter Muller рассмотрению не подлежит, ООП
+[21:10:05]  [Police LV] Полковник Martin_Milson: OG, закончил вещание.
+[21:14:41]  [Police SF] Капитан Archi_Bavles: Army, был ограблен магазин одежды SF. Укрепите ваши посты
+[21:15:34]  [Police SF] Майор Misha_Sakharov: OG, Занимаю гос.волну, просьба не перебивать
+[21:15:54]  [Police SF] Майор Misha_Sakharov: Освободил Государственную волну
+[21:16:04]  [Police SF] Ст.Лейтенант Jack_DeSanta: lva, встречайте султан синий с оборами
+[21:16:32]  [Police LS] Прапорщик Ross_Rhea: AF, порт ЧС, помощь не помешает.
+[21:16:56]  [Police SF] Ст.Прапорщик Sasha_Sunside: lva, к вам клоуны едут с вооружённые. 
+[21:19:20]  [Police LS] Майор Sergio_Rodriguez: MOH, С-18 три трупа, кареты бы
+[21:19:36]  [Medic] Зам.Глав.Врача Misu_Kurokawa: LSPD, катаюсь, подберу.
+[21:20:02]  [Police LS] Майор Jeremiah_Bowman: OG, занимаю волну гос. новостей, просьба не перебивать.
+[21:20:16]  [Police LS] Майор Jeremiah_Bowman: OG, освободил волну гос.новостей.
+[21:20:27]  [Police LV] Ст.Лейтенант Quincy_Vandenreich: SFPD,Archi_Bavles,а так же Sasha_Sunside являются Вашими офицерами?
+[21:20:47]  [Police SF] Майор Roy_Akkerman: LVPD, Именно так, что случилось?
+[21:20:59]  [Army SF] Капитан Hugo_Escobar: SFPD Наряд в Н-5
+[21:21:25]  [Army SF] Мл.Лейтенант Carp_Carpov: SFPD, срочно наряд в H-5, как приняли?
+[21:21:55]  [Police SF] Сержант Inquisitor_Audelius: SFA, 10-4
+[21:22:24]  [FBI] Агент DEA Chris_Ramsay: Army, был ограблен магазин одежды LS. Укрепите ваши посты
+[21:25:07]  [Police LS] Майор Jeremiah_Bowman: AF, открыт перевод в LSPD с звания Мл.Сержант. Подробнее на п.473
+[21:25:18]  [Medic] Зам.Глав.Врача Misu_Kurokawa: OG, Успешный контракт «Нарколога» и один миллион в кармане. Подробности на портале штата
+[21:26:13]  [Police LV] Офицер Chipalino_McDonald: LSPD, к вам колона мафиозников поехала на АММО. 
+[21:27:49]  [Police LS] Прапорщик Dell_Fill: Gov, дело Rento Kewazzo рассмотрению не подлежит, ООП
+[21:30:03]  [Police LS] Майор Jeremiah_Bowman: OG, занимаю волну гос. новостей, просьба не перебивать.
+[21:30:17]  [Police LS] Майор Jeremiah_Bowman: OG, освободил волну гос.новостей.
+[21:32:59]  [Police LV] Ст.Прапорщик Ethan_Black: LSPD, пересекаю вашу юрисдикцию, Договор.
+[21:39:59]  [Police LS] Майор Jeremiah_Bowman: OG, занимаю волну гос. новостей, просьба не перебивать.
+[21:40:13]  [Police LS] Майор Jeremiah_Bowman: OG, освободил волну гос.новостей.

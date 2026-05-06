@@ -1,0 +1,52 @@
+
+---====19:23:40====---
+
+[19:23:40]  [Wanted 1: Bushido_Snookez] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[19:23:40]  [Wanted 1: Princess_Eyescry] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[19:23:40]  [Wanted 1: Lancik_Volk] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[12:41:38]  [Wanted 2: Rizzy_Askomos] [Сообщает: Неизвестный] [Убийство человека LV]
+[12:41:38]  [Wanted 2: Frosty_Sakuraa] [Сообщает: Jason_Statkham] [Попытка скрыться от ПО]
+[12:41:38]  [Wanted 3: Ivan_Merllen] [Сообщает: Охранная служба] [Взлом дома №122 LV]
+[12:41:38]  [Wanted 1: Sanya_Kulagin] [Сообщает: Jason_Statkham] [неподчинение]
+
+---====12:44:05====---
+
+[12:44:05]  [Wanted 2: Andrew_Valencia] [Сообщает: Неизвестный] [Убийство человека LV]
+[12:44:43]  [Wanted 4: Andrew_Valencia] [Сообщает: Неизвестный] [Убийство человека LV]
+[12:48:26]  [Wanted 2: Tima_Bendit] [Сообщает: Mona_Liza] [Попытка скрыться от ПО]
+[12:49:00]  [Wanted 5: Tima_Bendit] [Сообщает: Mona_Liza] [Хранение наркотиков и материалов]
+[12:51:47]  [Wanted 3: Gonza_Syntax] [Сообщает: Mona_Liza] [Вооруженное нападение на гражданского]
+[12:54:16]  [Wanted 1: Brain_Benedict] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[12:54:16]  [Wanted 6: Kirill_Noviy] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[12:54:16]  [Wanted 1: Giovanni_Clemente] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[12:54:16]  [Wanted 1: Felixx_Shooter] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[12:54:16]  [Wanted 1: Yarick_Sosunkov] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[12:56:24]  [Wanted 6: Ivan_Merllen] [Сообщает: Chipalino_McDonald] [Уход]
+[12:57:22]  [Wanted 2: Liho_Rassel] [Сообщает: Jason_Statkham] [оскорбление]
+[12:58:08]  [Wanted 5: Liho_Rassel] [Сообщает: Jason_Statkham] [Хранение наркотиков и материалов]
+[12:58:15]  [Wanted 6: Liho_Rassel] [Сообщает: Jason_Statkham] [приготовление к преступлению]
+[13:06:24]  [Wanted 2: Yura_Vallettazz] [Сообщает: Girolamo_Giangrande] [Вооруженное нападение на гражданского]
+[13:10:05]  [Wanted 2: Blink_Dagger] [Сообщает: Неизвестный] [Убийство человека LV]
+[13:12:08]  [Wanted 2: Sewer_Severoff] [Сообщает: Girolamo_Giangrande] [Убийство]
+[13:13:04]  [Wanted 4: Blink_Dagger] [Сообщает: Неизвестный] [Убийство человека LV]
+[13:13:15]  [Wanted 6: Blink_Dagger] [Сообщает: Неизвестный] [Убийство человека LV]
+
+---====13:17:15====---
+
+[13:17:15]  [Wanted 2: Blink_Dagger] [Сообщает: Неизвестный] [Убийство человека LV]
+[13:17:35]  [Wanted 6: Nicolas_Pereira] [Сообщает: Dmytro_Lemekha] [Уход]
+[13:17:42]  [Wanted 4: Blink_Dagger] [Сообщает: Неизвестный] [Убийство человека LV]
+[13:17:47]  [Wanted 2: Yurik_Dagestan] [Сообщает: Chipalino_McDonald] [Попытка скрыться от ПО]
+[13:18:12]  [Wanted 1: Sviatoslav_Dagestan] [Сообщает: Hugo_Toriggez] [Неподчинение]
+[13:18:38]  [Wanted 4: Vovan_Speed] [Сообщает: Chipalino_McDonald] [вооруженное нападение]
+
+---====13:25:54====---
+
+[13:25:54]  [Wanted 6: Ivan_Vkarmann] [Сообщает: Loor_Pikavit] [Ложный вызов]
+[13:28:07]  [Wanted 3: Dasha_Kimberli] [Сообщает: Quincy_Vandenreich] [Хранение наркотиков и материалов]
+[13:28:09]  [Wanted 6: Dasha_Kimberli] [Сообщает: Quincy_Vandenreich] [Хранение ключей от камеры]
+[13:28:42]  [Wanted 5: Jolly_Molly] [Сообщает: Охранная служба] [Взлом дома №845 LV]
+[13:29:12]  [Wanted 2: Nart_Avar] [Сообщает: Quincy_Vandenreich] [Оскорбление]
+[13:30:03]  [Wanted 6: Jolly_Molly] [Сообщает: Girolamo_Giangrande] [Вооруженное нападение на гос.сотрудника ]
+[13:31:14]  [Wanted 2: Kar_Jiano] [Сообщает: Cosmos_Edwards] [Закладка]
+[13:37:04]  [Wanted 2: Liho_Rassel] [Сообщает: Girolamo_Giangrande] [Попытка скрыться от ПО]

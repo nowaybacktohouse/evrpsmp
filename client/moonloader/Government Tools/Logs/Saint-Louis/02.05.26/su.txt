@@ -1,0 +1,66 @@
+
+---====19:21:21====---
+
+[19:21:21]  [Wanted 1: Kirill_Noviy] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[19:21:21]  [Wanted 1: Bushido_Snookez] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[19:21:21]  [Wanted 1: Mike_Aethelred] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[19:25:30]  [Wanted 3: Viki_Smith] [Сообщает: Quincy_Vandenreich] [Хранение наркотиков и материалов]
+
+---====19:48:18====---
+
+[19:48:18]  [Wanted 6: Friedrich_Dollmann] [Сообщает: Mihail_Dozor] [Вооруженное нападение на гос.сотрудника]
+[19:50:49]  [Wanted 2: Alanchik_Hokage] [Сообщает: Неизвестный] [Убийство человека LV]
+[19:50:49]  [Wanted 6: Alanchik_Hokage] [Сообщает: Jonathan_Cooper] [Нападение на гос. сотрудника]
+[19:51:07]  [Wanted 2: Viki_Smith] [Сообщает: Неизвестный] [Убийство человека LV]
+[19:53:24]  [Wanted 2: Rafael_Matweev] [Сообщает: Bobbi_Diaz] [Оскорбление]
+[19:59:53]  [Wanted 2: Tom_Keen] [Сообщает: Неизвестный] [Убийство человека LV]
+[20:05:47]  [Wanted 2: Ivan_Gravchenko] [Сообщает: Lyov_Avagyan] [Избиение]
+[20:07:39]  [Wanted 1: Stefan_Cholmondeley] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[20:07:39]  [Wanted 1: Lukas_Greif] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[20:07:39]  [Wanted 1: Bushido_Snookez] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[20:09:36]  [Wanted 3: Mega_Zorin] [Сообщает: Alessandro_Venturo] [Попытка скрыться от ПО]
+[20:10:30]  [Wanted 4: Hiromi_Higumura] [Сообщает: Неизвестный] [Убийство полицейского LV]
+[20:10:38]  [Wanted 4: Honest_Killer] [Сообщает: Неизвестный] [Убийство полицейского LV]
+[20:12:58]  [Wanted 5: Mega_Zorin] [Сообщает: Mona_Liza] [Оскорбление]
+[20:14:20]  [Wanted 6: Mega_Zorin] [Сообщает: Mona_Liza] [Хранение ключей от КПЗ]
+[20:22:17]  [Wanted 5: Tom_Keen] [Сообщает: Mona_Liza] [Вооруженное нападение на гос.сотрудника]
+[20:24:34]  [Wanted 2: Artem_Jarig] [Сообщает: Pashok_Kalashnikov] [Попытка скрыться от ПО]
+[20:24:54]  [Wanted 5: Artem_Jarig] [Сообщает: Donald_Carington] [Уход с места ДТП]
+[20:26:09]  [Wanted 6: Joseph_Ker] [Сообщает: Неизвестный] [Проникновение LV]
+[20:27:22]  [Wanted 4: Maxim_Millers] [Сообщает: Pashok_Kalashnikov] [Вооруженное нападение на гос.сотрудника]
+[20:28:10]  [Wanted 3: Maxim_Miller] [Сообщает: Pashok_Kalashnikov] [Хранение наркотиков и материалов]
+[20:28:12]  [Wanted 5: Maxim_Miller] [Сообщает: Pashok_Kalashnikov] [Хранение военной формы]
+[20:28:13]  [Wanted 6: Maxim_Miller] [Сообщает: Pashok_Kalashnikov] [Оружие без лицензии]
+[20:38:09]  [Wanted 1: Merilin_Monroe] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[20:38:09]  [Wanted 1: Yakata_Yankee] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[20:38:09]  [Wanted 1: Rento_Kewazzo] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[20:38:09]  [Wanted 1: Taddeo_Martinez] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[20:38:09]  [Wanted 1: Li_Suun] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[20:38:09]  [Wanted 1: Stas_Washingtonx] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[20:38:09]  [Wanted 1: Kha_Suun] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[20:38:09]  [Wanted 1: Misha_Alliance] [Сообщает: Неизвестный] [Ограбление АММО LV]
+[20:39:38]  [Wanted 2: Og_Tekk] [Сообщает: Steven_Seagal] [Убийство]
+[20:46:04]  [Wanted 2: Jonka_Shipot] [Сообщает: Неизвестный] [Убийство человека LV]
+[20:46:05]  [Wanted 4: Kenji_Uchidx] [Сообщает: Неизвестный] [Убийство человека LV]
+
+---====20:50:13====---
+
+[20:50:13]  [Wanted 6: Chandelle_Fotev] [Сообщает: Неизвестный] [Убийство полицейского LV]
+[20:50:33]  [Wanted 4: Tawerqa_Delarosa] [Сообщает: Неизвестный] [Убийство полицейского LV]
+[20:50:44]  [Wanted 6: Tawerqa_Delarosa] [Сообщает: Неизвестный] [Убийство полицейского LV]
+[20:52:20]  [Wanted 4: Tawerqa_Delarosa] [Сообщает: Pashok_Kalashnikov] [Нападение на гос. сотрудника]
+[20:52:38]  [Wanted 6: Tawerqa_Delarosa] [Сообщает: Donald_Carington] [Вооруженное нападение на гос.сотрудника]
+[20:52:51]  [Wanted 4: Tawerqa_Masanovskiy] [Сообщает: Girolamo_Giangrande] [Вооруженное нападение на гос.сотрудника ]
+
+---====20:58:54====---
+
+[20:58:54]  [Wanted 2: Chandelle_Fotev] [Сообщает: Girolamo_Giangrande] [Убийство]
+
+---====21:12:09====---
+
+[21:12:09]  [Wanted 3: Evgeniy_Morgan] [Сообщает: Cosmos_Edwards] [Приготовление к преступлению]
+[21:12:30]  [Wanted 5: Evgeniy_Morgan] [Сообщает: Cosmos_Edwards] [Уход от сотрудников ПО]
+[21:12:43]  [Wanted 5: Jadeo_Heldo] [Сообщает: Pashok_Kalashnikov] [Попытка скрыться от ПО]
+[21:14:00]  [Wanted 2: Alistair_Graves] [Сообщает: Adilet_Casilias] [Попытка скрыться от ПО]
+[21:15:42]  [Wanted 6: Evgeniy_Morgan] [Сообщает: Cosmos_Edwards] [Предложение взятки]
+[21:15:59]  [Wanted 2: Dan_Ballan] [Сообщает: Ray_Heartless] [Уход от сотрудника ПО]
