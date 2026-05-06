@@ -1,6 +1,6 @@
 script_name('EvolveAntiCrash')
-script_version('1.5.0')
-script_version_number(6)
+script_version('1.6.0')
+script_version_number(7)
 script_author('Evolve RP')
 script_description('Anti-crash: streaming memory cleanup with GUI monitor')
 script_moonloader(026)
@@ -27,7 +27,7 @@ local CRITICAL_USAGE_MB    = 512
 local CHECK_INTERVAL       = 150
 
 -- GUI config
-local GUI_ENABLED          = true       -- toggle with F10
+local GUI_ENABLED          = false      -- off by default, toggle with /crashmon
 local GUI_X                = 10
 local GUI_Y                = 450
 local GUI_WIDTH            = 220
@@ -57,7 +57,9 @@ function main()
     guiFont = renderCreateFont('Arial', 10, font_flag.BOLD + font_flag.SHADOW)
     guiFontSmall = renderCreateFont('Arial', 8, font_flag.SHADOW)
 
-    print(string.format('[AntiCrash] v1.5.0 loaded. GUI: F10 toggle. Cleanup at: %d / %d / %d MB',
+    sampRegisterChatCommand('crashmon', cmdToggleGui)
+
+    print(string.format('[AntiCrash] v1.6.0 loaded. Command: /crashmon. Cleanup at: %d / %d / %d MB',
         MAX_USAGE_MB, MAX_USAGE_HEAVY_MB, CRITICAL_USAGE_MB))
 
     while true do
@@ -65,6 +67,15 @@ function main()
         if isPlayerPlaying(PLAYER_HANDLE) then
             monitorStreaming()
         end
+    end
+end
+
+function cmdToggleGui()
+    GUI_ENABLED = not GUI_ENABLED
+    if GUI_ENABLED then
+        sampAddChatMessage('[AntiCrash] {00FF00}Monitor ON', 0xFFFFCC00)
+    else
+        sampAddChatMessage('[AntiCrash] {FF4444}Monitor OFF', 0xFFFFCC00)
     end
 end
 
@@ -106,11 +117,6 @@ function monitorStreaming()
         cleanupCount = cleanupCount + 1
         lastCleanupTime = os.clock()
     end
-
-    -- Toggle GUI with F10
-    if isKeyJustPressed(0x79) then
-        GUI_ENABLED = not GUI_ENABLED
-    end
 end
 
 function renderDraw()
@@ -124,7 +130,7 @@ function renderDraw()
     renderDrawBox(GUI_X, GUI_Y, GUI_WIDTH, 72, 0xAA000000)
 
     -- Title
-    renderFontDrawText(guiFont, 'AntiCrash v1.5', GUI_X + 4, GUI_Y + 2, 0xFFFFCC00)
+    renderFontDrawText(guiFont, 'AntiCrash v1.6', GUI_X + 4, GUI_Y + 2, 0xFFFFCC00)
 
     -- Streaming usage
     local usageColor = 0xFF00FF00  -- green
